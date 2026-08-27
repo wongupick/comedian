@@ -133,6 +133,8 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .canvas-topline { display: flex; justify-content: space-between; color: #887267; font: 10px "IBM Plex Mono", monospace; letter-spacing: .12em; }
 .canvas-topline span:last-child { display: flex; align-items: center; gap: 5px; }
 .generation-bar { display: flex; align-items: center; gap: 6px; margin: 28px 0 58px; padding: 0 0 13px; border-bottom: 1px solid rgba(23, 21, 21, .22); overflow-x: auto; scrollbar-width: thin; }
+.generation-context-chip { display: inline-flex; align-items: center; gap: 8px; min-height: 35px; padding: 0 13px; border: 1px solid rgba(90, 32, 42, .28); color: #5a202a; background: rgba(255, 255, 255, .22); font: 10px "IBM Plex Mono", monospace; letter-spacing: .06em; white-space: nowrap; }
+.generation-context-chip svg { color: #e65a4f; }
 .generation-tab { flex: 0 0 auto; min-width: 47px; height: 35px; padding: 0 11px; border: 1px solid transparent; color: #887267; background: transparent; font: 13px "IBM Plex Mono", monospace; transition: color 160ms ease-out, background 160ms ease-out, border 160ms ease-out; }
 .generation-tab sup { margin-left: 2px; font: 9px "Noto Sans KR", sans-serif; }
 .generation-tab:hover, .generation-tab.active { color: #f8f0e4; background: #5a202a; border-color: #5a202a; }
