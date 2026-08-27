@@ -1,0 +1,6934 @@
+{
+  "generatedAt": "2026-08-27T02:08:38.334Z",
+  "sectionCount": 77,
+  "recordCount": 701,
+  "sections": [
+    {
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "title": "21. SBS 16기(2016년 5월)",
+      "count": 20
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 0,
+      "track": "특채",
+      "year": "1991",
+      "title": "3. SBS 특채(1991년)",
+      "count": 5
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 1,
+      "track": "공채",
+      "year": "1992",
+      "title": "4. SBS 1기(1992년)",
+      "count": 7
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 2,
+      "track": "공채",
+      "year": "1993",
+      "title": "5. SBS 2기(1993년)",
+      "count": 6
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 3,
+      "track": "공채",
+      "year": "1994",
+      "title": "6. SBS 3기(1994년)",
+      "count": 5
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 4,
+      "track": "공채",
+      "year": "1995",
+      "title": "7. SBS 4기(1995년)",
+      "count": 7
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "title": "8. SBS 5기(1996년)",
+      "count": 13
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "2001",
+      "title": "10. SBS 6기(2001년~2003년)",
+      "count": 8
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "title": "12. SBS 7기(2003년~2004년)",
+      "count": 28
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "title": "13. SBS 8기(2004년~2006년)",
+      "count": 53
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "title": "14. SBS 9기(2007년)",
+      "count": 14
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "title": "15. SBS 10기(2008년)",
+      "count": 22
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "title": "16. SBS 11기(2009년~2011년)",
+      "count": 9
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "title": "17. SBS 12기(2012년)",
+      "count": 14
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "title": "18. SBS 13기(2013년)",
+      "count": 12
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "2014",
+      "title": "19. SBS 14기(2014년 2월)",
+      "count": 4
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "title": "20. SBS 15기(2015년 4월)",
+      "count": 10
+    },
+    {
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "title": "21. SBS 16기(2016년 5월)",
+      "count": 35
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "title": "38. KBS 34기 (2025년)",
+      "count": 37
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1982",
+      "title": "4. KBS 1기 (1982년)/82 KBS 개그 콘테스트",
+      "count": 4
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1983",
+      "title": "5. KBS 2기 (1983, 1984년)/KBS 개그맨 콘테스트",
+      "count": 2
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 3,
+      "track": "콘테스트",
+      "year": "1985",
+      "title": "6. KBS 3기 (1985년)/KBS 개그맨 콘테스트",
+      "count": 2
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "title": "7. KBS 4기 (1986년)/KBS 코미디탤런트 1기[A]",
+      "count": 16
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1987",
+      "title": "8. KBS 5기 (1987년)/KBS 코미디탤런트 2기[A]",
+      "count": 6
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "1990",
+      "title": "9. KBS 6기 (1990년)/KBS 코미디텔런트 3기[A]",
+      "count": 6
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "1991",
+      "title": "10. KBS 7기(1991년 5월)/제1회 KBS 대학개그제",
+      "count": 3
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "title": "11. KBS 8기 (1991년 12월)/KBS 전국만담대회",
+      "count": 9
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "1992",
+      "title": "12. KBS 9기 (1992년 8월 15일)/제2회 KBS 대학개그제",
+      "count": 8
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "title": "13. KBS 10기 (1993년)/KBS 청춘스케치(특채)",
+      "count": 9
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "1994",
+      "title": "14. KBS 11기 (1994년 2월 9일)/제3회 KBS 대학개그제",
+      "count": 3
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "1995",
+      "title": "15. KBS 12기 (1995년 1월 30일)/제4회 KBS 대학개그제",
+      "count": 3
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "1997",
+      "title": "16. KBS 13기 (1997년)",
+      "count": 6
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "1999",
+      "title": "17. KBS 14기 (1999년)",
+      "count": 5
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2000",
+      "title": "18. KBS 15기 (2000년)",
+      "count": 8
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2001",
+      "title": "19. KBS 16기 (2001년)",
+      "count": 6
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 17,
+      "track": "공채",
+      "year": "2002",
+      "title": "20. KBS 17기 (2002년)",
+      "count": 5
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 18,
+      "track": "공채",
+      "year": "2003",
+      "title": "21. KBS 18기 (2003년)",
+      "count": 7
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "title": "22. KBS 19기 (2004년)",
+      "count": 10
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "title": "23. KBS 20기 (2005년)",
+      "count": 14
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "title": "24. KBS 21기 (2006년)/KBS 개그사냥(특채)",
+      "count": 10
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "title": "25. KBS 22기 (2007년)",
+      "count": 14
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 23,
+      "track": "공채",
+      "year": "2008",
+      "title": "26. KBS 23기 (2008년)",
+      "count": 4
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 25,
+      "track": "공채",
+      "year": "2010",
+      "title": "28. KBS 25기 (2010년)",
+      "count": 3
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 26,
+      "track": "공채",
+      "year": "2011",
+      "title": "29. KBS 26기 (2011년)",
+      "count": 2
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 27,
+      "track": "공채",
+      "year": "2012",
+      "title": "30. KBS 27기 (2012년)",
+      "count": 2
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 28,
+      "track": "공채",
+      "year": "2013",
+      "title": "31. KBS 28기 (2013년)",
+      "count": 1
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 29,
+      "track": "공채",
+      "year": "2014",
+      "title": "32. KBS 29기 (2014년)",
+      "count": 4
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 31,
+      "track": "공채",
+      "year": "2016",
+      "title": "34. KBS 31기 (2016년)",
+      "count": 1
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 33,
+      "track": "공채",
+      "year": "2023",
+      "title": "37. KBS 33기 (2023년)",
+      "count": 3
+    },
+    {
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "title": "38. KBS 34기 (2025년)",
+      "count": 12
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "title": "5.20. MBC 20기(2013년)",
+      "count": 12
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "코미디 탤런트",
+      "year": "1975",
+      "title": "3.1. MBC 코미디 탤런트 1기 (1975년)",
+      "count": 2
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "코미디 탤런트",
+      "year": "1978",
+      "title": "3.2. MBC 코미디 탤런트 2기 (1978년)",
+      "count": 6
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "title": "3.3. MBC 코미디 탤런트 3기 (1981년)",
+      "count": 17
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1983",
+      "title": "3.4. MBC 코미디 탤런트 4기 (1983년)",
+      "count": 8
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1984",
+      "title": "3.5. MBC 코미디 탤런트 5기 (1984년)",
+      "count": 7
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1981",
+      "title": "4.1. MBC 개그맨 콘테스트 1기 (1981년)",
+      "count": 4
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1982",
+      "title": "4.2. MBC 개그맨 콘테스트 2기 (1982년)",
+      "count": 6
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "콘테스트",
+      "year": "1983",
+      "title": "4.3. MBC 개그맨 콘테스트 3기 (1983년)",
+      "count": 5
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "공채",
+      "year": "1987",
+      "title": "5.1. MBC 1기(1987년)",
+      "count": 6
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "공채",
+      "year": "1988",
+      "title": "5.2. MBC 2기(1988년)",
+      "count": 7
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "공채",
+      "year": "1989~1992",
+      "title": "5.3. MBC 3기(1989~1992년)",
+      "count": 7
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "title": "5.4. MBC 4기(1993년)",
+      "count": 11
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "공채",
+      "year": "1994",
+      "title": "5.5. MBC 5기(1994년)",
+      "count": 5
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 6,
+      "track": "공채",
+      "year": "1995",
+      "title": "5.6. MBC 6기(1995년)",
+      "count": 8
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 7,
+      "track": "공채",
+      "year": "1996",
+      "title": "5.7. MBC 7기(1996년)",
+      "count": 5
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 8,
+      "track": "공채",
+      "year": "1997",
+      "title": "5.8. MBC 8기(1997년)",
+      "count": 5
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 9,
+      "track": "공채",
+      "year": "1998",
+      "title": "5.9. MBC 9기(1998년)",
+      "count": 5
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 10,
+      "track": "공채",
+      "year": "1999",
+      "title": "5.10. MBC 10기(1999년)",
+      "count": 2
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 12,
+      "track": "공채",
+      "year": "2001",
+      "title": "5.12. MBC 12기(2001년)",
+      "count": 1
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 14,
+      "track": "공채",
+      "year": "2004",
+      "title": "5.14. MBC 14기(2004년)",
+      "count": 3
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 15,
+      "track": "공채",
+      "year": "2006",
+      "title": "5.15. MBC 15기(2006년)",
+      "count": 7
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 16,
+      "track": "공채",
+      "year": "2007",
+      "title": "5.16. MBC 16기(2007년)",
+      "count": 6
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 17,
+      "track": "공채",
+      "year": "2008",
+      "title": "5.17. MBC 17기(2008년)",
+      "count": 4
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "title": "5.18. MBC 18기(2009년)",
+      "count": 9
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "title": "5.19. MBC 19기(2012년)",
+      "count": 9
+    },
+    {
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "title": "5.20. MBC 20기(2013년)",
+      "count": 37
+    }
+  ],
+  "records": [
+    {
+      "id": "sbs-공채-16-1-김병조",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김병조",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-2-김학래",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김학래",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-3-최양락",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "최양락",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-4-김은우",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김은우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-5-정재환",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "정재환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-6-이봉원",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "이봉원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-7-김의환",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김의환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-8-하상훈",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "하상훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-9-김종국",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김종국",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-10-최형만",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "최형만",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-11-박미선",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "박미선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-12-이옥주",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "이옥주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-13-김지선",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김지선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-14-김창준",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김창준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-15-곽재문",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "곽재문",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-16-김은태",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김은태",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-17-이현주",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "이현주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-18-서인석",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "서인석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-19-이경애",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "이경애",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-20-최병서",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "최병서",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-특채-special-1-신동엽",
+      "broadcaster": "sbs",
+      "generation": 0,
+      "track": "특채",
+      "year": "1991",
+      "name": "신동엽",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-특채-special-2-표인봉",
+      "broadcaster": "sbs",
+      "generation": 0,
+      "track": "특채",
+      "year": "1991",
+      "name": "표인봉",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-특채-special-3-박채규",
+      "broadcaster": "sbs",
+      "generation": 0,
+      "track": "특채",
+      "year": "1991",
+      "name": "박채규",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-특채-special-4-구수한",
+      "broadcaster": "sbs",
+      "generation": 0,
+      "track": "특채",
+      "year": "1991",
+      "name": "구수한",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-특채-special-5-유정화",
+      "broadcaster": "sbs",
+      "generation": 0,
+      "track": "특채",
+      "year": "1991",
+      "name": "유정화",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-1-1-정선희",
+      "broadcaster": "sbs",
+      "generation": 1,
+      "track": "공채",
+      "year": "1992",
+      "name": "정선희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-1-2-김경민",
+      "broadcaster": "sbs",
+      "generation": 1,
+      "track": "공채",
+      "year": "1992",
+      "name": "김경민",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-1-3-김경식",
+      "broadcaster": "sbs",
+      "generation": 1,
+      "track": "공채",
+      "year": "1992",
+      "name": "김경식",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-1-4-최윤희",
+      "broadcaster": "sbs",
+      "generation": 1,
+      "track": "공채",
+      "year": "1992",
+      "name": "최윤희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-1-5-박순화",
+      "broadcaster": "sbs",
+      "generation": 1,
+      "track": "공채",
+      "year": "1992",
+      "name": "박순화",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-1-6-김윤희",
+      "broadcaster": "sbs",
+      "generation": 1,
+      "track": "공채",
+      "year": "1992",
+      "name": "김윤희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-1-7-이은주",
+      "broadcaster": "sbs",
+      "generation": 1,
+      "track": "공채",
+      "year": "1992",
+      "name": "이은주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-2-1-김현동",
+      "broadcaster": "sbs",
+      "generation": 2,
+      "track": "공채",
+      "year": "1993",
+      "name": "김현동",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-2-2-염경환",
+      "broadcaster": "sbs",
+      "generation": 2,
+      "track": "공채",
+      "year": "1993",
+      "name": "염경환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-2-3-이상은",
+      "broadcaster": "sbs",
+      "generation": 2,
+      "track": "공채",
+      "year": "1993",
+      "name": "이상은",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-2-4-이예림",
+      "broadcaster": "sbs",
+      "generation": 2,
+      "track": "공채",
+      "year": "1993",
+      "name": "이예림",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-2-5-신종훈",
+      "broadcaster": "sbs",
+      "generation": 2,
+      "track": "공채",
+      "year": "1993",
+      "name": "신종훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-2-6-윤정화",
+      "broadcaster": "sbs",
+      "generation": 2,
+      "track": "공채",
+      "year": "1993",
+      "name": "윤정화",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-3-1-김학준",
+      "broadcaster": "sbs",
+      "generation": 3,
+      "track": "공채",
+      "year": "1994",
+      "name": "김학준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-3-2-장준원",
+      "broadcaster": "sbs",
+      "generation": 3,
+      "track": "공채",
+      "year": "1994",
+      "name": "장준원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-3-3-이강선",
+      "broadcaster": "sbs",
+      "generation": 3,
+      "track": "공채",
+      "year": "1994",
+      "name": "이강선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-3-4-최미미",
+      "broadcaster": "sbs",
+      "generation": 3,
+      "track": "공채",
+      "year": "1994",
+      "name": "최미미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-3-5-홍호영",
+      "broadcaster": "sbs",
+      "generation": 3,
+      "track": "공채",
+      "year": "1994",
+      "name": "홍호영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-4-1-안재우",
+      "broadcaster": "sbs",
+      "generation": 4,
+      "track": "공채",
+      "year": "1995",
+      "name": "안재우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-4-2-최민석",
+      "broadcaster": "sbs",
+      "generation": 4,
+      "track": "공채",
+      "year": "1995",
+      "name": "최민석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-4-3-맹영기",
+      "broadcaster": "sbs",
+      "generation": 4,
+      "track": "공채",
+      "year": "1995",
+      "name": "맹영기",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-4-4-윤보경",
+      "broadcaster": "sbs",
+      "generation": 4,
+      "track": "공채",
+      "year": "1995",
+      "name": "윤보경",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-4-5-이영경",
+      "broadcaster": "sbs",
+      "generation": 4,
+      "track": "공채",
+      "year": "1995",
+      "name": "이영경",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-4-6-김지현",
+      "broadcaster": "sbs",
+      "generation": 4,
+      "track": "공채",
+      "year": "1995",
+      "name": "김지현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-4-7-이정은",
+      "broadcaster": "sbs",
+      "generation": 4,
+      "track": "공채",
+      "year": "1995",
+      "name": "이정은",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-1-고두옥",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "고두옥",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-2-오종철",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "오종철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-3-배진경",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "배진경",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-4-김현정",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "김현정",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-5-안주형",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "안주형",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-6-이지영",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "이지영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-7-이은영",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "이은영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-8-윤미지",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "윤미지",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-9-오미지",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "오미지",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-10-심현섭",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "심현섭",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-11-강성범",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "강성범",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-12-김늘메",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "김늘메",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-5-13-이상화",
+      "broadcaster": "sbs",
+      "generation": 5,
+      "track": "공채",
+      "year": "1996",
+      "name": "이상화",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-6-1-박보드레",
+      "broadcaster": "sbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "2001",
+      "name": "박보드레",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-6-2-홍성기",
+      "broadcaster": "sbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "2001",
+      "name": "홍성기",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-6-3-손명은",
+      "broadcaster": "sbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "2001",
+      "name": "손명은",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-6-4-이정필",
+      "broadcaster": "sbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "2001",
+      "name": "이정필",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-6-5-고석준",
+      "broadcaster": "sbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "2001",
+      "name": "고석준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-6-6-김진성",
+      "broadcaster": "sbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "2001",
+      "name": "김진성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-6-7-윤성호",
+      "broadcaster": "sbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "2001",
+      "name": "윤성호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-6-8-엄경천",
+      "broadcaster": "sbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "2001",
+      "name": "엄경천",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-1-김일희",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "김일희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-2-윤성한",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "윤성한",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-3-이강복",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "이강복",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-4-황영진",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "황영진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-5-정현수",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "정현수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-6-권성호",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "권성호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-7-이종규",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "이종규",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-8-김대훈",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "김대훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-9-정삼식",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "정삼식",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-10-최기섭",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "최기섭",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-11-김형인",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "김형인",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-12-엄승백",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "엄승백",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-13-박충수",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "박충수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-14-최재욱",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "최재욱",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-15-박상철",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "박상철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-16-이동규",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "이동규",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-17-최영수",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "최영수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-18-조우용",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "조우용",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-19-윤진영",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "윤진영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-20-김필수",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "김필수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-21-김기욱",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "김기욱",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-22-양세형",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "양세형",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-23-리마리오",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "리마리오",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-24-김세아",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "김세아",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-25-남정미",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "남정미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-26-김태환",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "김태환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-27-김민수",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "김민수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-7-28-(그외)",
+      "broadcaster": "sbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "2003",
+      "name": "(그외)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-1-이용진",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이용진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-2-김용명",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "김용명",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-3-오인택",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "오인택",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-4-염기정",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "염기정",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-5-양세찬",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "양세찬",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-6-이진호",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이진호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-7-미키광수",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "미키광수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-8-박규선",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "박규선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-9-박영재",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "박영재",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-10-이동엽",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이동엽",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-11-김영",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "김영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-12-안삼성",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "안삼성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-13-백보람",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "백보람",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-14-김정승",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "김정승",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-15-권혁일",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "권혁일",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-16-문원종",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "문원종",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-17-정일진",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "정일진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-18-조두석",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "조두석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-19-문용현",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "문용현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-20-박우광",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "박우광",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-21-고장환",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "고장환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-22-려명하",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "려명하",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-23-이광채",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이광채",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-24-이승주",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이승주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-25-이상준",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이상준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-26-예재형",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "예재형",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-27-이은형",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이은형",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-28-홍윤화",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "홍윤화",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-29-김민",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "김민",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-30-정주리",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "정주리",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-31-강현",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "강현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-32-고은영",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "고은영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-33-최은희",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "최은희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-34-김현정",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "김현정",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-35-이경분",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이경분",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-36-하박",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "하박",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-37-이종식",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이종식",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-38-홍동명",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "홍동명",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-39-장홍제",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "장홍제",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-40-류용현",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "류용현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-41-한승훈",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "한승훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-42-이영식",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "이영식",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-43-현병수",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "현병수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-44-김용현",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "김용현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-45-한지형",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "한지형",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-46-양상협",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "양상협",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-47-송형수",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "송형수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-48-김용석",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "김용석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-49-손영수",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "손영수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-50-나라",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "나라",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-51-조찬우",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "조찬우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-52-박근백",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "박근백",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-8-53-권주형",
+      "broadcaster": "sbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "2004",
+      "name": "권주형",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-1-이광득",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "이광득",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-2-정아미",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "정아미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-3-양귀비",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "양귀비",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-4-유채하",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "유채하",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-5-강대호",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "강대호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-6-이수한",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "이수한",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-7-안시우",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "안시우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-8-이은희",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "이은희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-9-임준빈",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "임준빈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-10-백승훈",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "백승훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-11-홍장원(MC장원)",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "홍장원(MC장원)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-12-홍현희",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "홍현희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-13-허용운(MC 딩동)",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "허용운(MC 딩동)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-9-14-공민영",
+      "broadcaster": "sbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "2007",
+      "name": "공민영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-1-김현중",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "김현중",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-2-황은전",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "황은전",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-3-한병준",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "한병준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-4-주성중",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "주성중",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-5-김병수",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "김병수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-6-김민제",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "김민제",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-7-김영춘",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "김영춘",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-8-이상철",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "이상철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-9-임성훈",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "임성훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-10-정세협",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "정세협",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-11-권혁진",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "권혁진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-12-김원구",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "김원구",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-13-최서인",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "최서인",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-14-김건영",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "김건영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-15-김성기",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "김성기",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-16-김다혜",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "김다혜",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-17-김민기",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "김민기",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-18-최기영",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "최기영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-19-강재준",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "강재준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-20-신흥재",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "신흥재",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-21-박은영",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "박은영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-10-22-이수지",
+      "broadcaster": "sbs",
+      "generation": 10,
+      "track": "공채",
+      "year": "2008",
+      "name": "이수지",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-11-1-강구현",
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "name": "강구현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-11-2-남효나",
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "name": "남효나",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-11-3-서기원",
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "name": "서기원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-11-4-안진호",
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "name": "안진호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-11-5-김윤호",
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "name": "김윤호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-11-6-이민우",
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "name": "이민우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-11-7-김진아",
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "name": "김진아",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-11-8-한명진",
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "name": "한명진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-11-9-이융성",
+      "broadcaster": "sbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "2009",
+      "name": "이융성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-1-강아라",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "강아라",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-2-길용준",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "길용준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-3-김정환",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "김정환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-4-박강균",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "박강균",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-5-박인영",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "박인영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-6-박영규",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "박영규",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-7-신찬미",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "신찬미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-8-이성호",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "이성호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-9-최충호",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "최충호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-10-최백선",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "최백선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-11-최소연",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "최소연",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-12-최수락",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "최수락",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-13-조승구",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "조승구",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-12-14-이동빈",
+      "broadcaster": "sbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "2012",
+      "name": "이동빈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-1-김현주",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "김현주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-2-박준호",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "박준호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-3-박이안",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "박이안",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-4-박진영",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "박진영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-5-박진주",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "박진주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-6-백두현",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "백두현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-7-유한결",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "유한결",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-8-이신명",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "이신명",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-9-이동빈",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "이동빈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-10-정재형",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "정재형",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-11-조인철",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "조인철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-13-12-조준래",
+      "broadcaster": "sbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "2013",
+      "name": "조준래",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-14-1-이창엽",
+      "broadcaster": "sbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "2014",
+      "name": "이창엽",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-14-2-주현정",
+      "broadcaster": "sbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "2014",
+      "name": "주현정",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-14-3-최부기",
+      "broadcaster": "sbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "2014",
+      "name": "최부기",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-14-4-고동수",
+      "broadcaster": "sbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "2014",
+      "name": "고동수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-1-김륜희",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "김륜희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-2-김영구",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "김영구",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-3-김형준",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "김형준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-4-김환석",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "김환석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-5-오복남",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "오복남",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-6-이동호",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "이동호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-7-임미나",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "임미나",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-8-임라라",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "임라라",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-9-최건희",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "최건희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-15-10-송이지",
+      "broadcaster": "sbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2015",
+      "name": "송이지",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-1-박지성",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "박지성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-2-고권오",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "고권오",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-3-박종욱",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "박종욱",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-4-주희중",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "주희중",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-5-정효균",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "정효균",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-6-로컬방송의 한계로 지방에서 뜸해져 영구 시리즈가 흥행에 부진해 결정을 내렸다는 후문도..",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "로컬방송의 한계로 지방에서 뜸해져 영구 시리즈가 흥행에 부진해 결정을 내렸다는 후문도..",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-7-'김구라'의 본명",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "'김구라'의 본명",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-8-얼마안가 SBS로 복귀하였다.",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "얼마안가 SBS로 복귀하였다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-9-기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-10-나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-11-네팔",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "네팔",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-12-박위",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "박위",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-13-lck",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "lck",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-14-돌리 파튼",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "돌리 파튼",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-15-김도영",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김도영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-16-장미란 실종 사건",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "장미란 실종 사건",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-17-이진숙",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "이진숙",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-18-사비뉴",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "사비뉴",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-19-오디세이",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "오디세이",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-20-JLPT",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "JLPT",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-21-하마사키 아유미",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "하마사키 아유미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-22-이춘근(정치학자)",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "이춘근(정치학자)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-23-박현규(철권)",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "박현규(철권)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-24-민족 볼셰비즘",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "민족 볼셰비즘",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-25-왕거을오미",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "왕거을오미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-26-해적전대 고카이저",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "해적전대 고카이저",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-27-김상섭",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "김상섭",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-28-이동진",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "이동진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-29-namu.wiki",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "namu.wiki",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-30-Contáctenos",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "Contáctenos",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-31-Términos de uso",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "Términos de uso",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-32-Operado por umanle S.R.L.",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "Operado por umanle S.R.L.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-33-Hecho con ❤️ en Asunción, República del Paraguay",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "Hecho con ❤️ en Asunción, República del Paraguay",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-34-Su zona horaria es UTC",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "Su zona horaria es UTC",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "sbs-공채-16-35-Impulsado por the seed engine",
+      "broadcaster": "sbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2016",
+      "name": "Impulsado por the seed engine",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-1-송해",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "송해",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-2-박시명",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "박시명",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-3-이상해",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "이상해",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-4-백남봉",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "백남봉",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-5-남보원",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "남보원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-6-이주일",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "이주일",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-7-남춘",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "남춘",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-8-방일수",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "방일수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-9-배수남",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "배수남",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-10-서영환",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "서영환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-11-서우락",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "서우락",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-12-손경수",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "손경수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-13-석현",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "석현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-14-심철호",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "심철호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-15-유성",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "유성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-16-임희춘",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "임희춘",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-17-조철남",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "조철남",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-18-조치원",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "조치원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-19-진선",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "진선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-20-최용순",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "최용순",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-21-한주열",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "한주열",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-22-고영수",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "고영수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-23-김성남",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "김성남",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-24-한기풍",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "한기풍",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-25-문영미",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "문영미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-26-변아영",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "변아영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-27-전유성",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "전유성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-28-송영길",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "송영길",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-29-허원",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "허원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-30-손철",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "손철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-31-김윤희",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "김윤희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-32-성은주",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "성은주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-33-원양",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "원양",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-34-김형곤",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "김형곤",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-35-이성미",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "이성미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-36-장두석",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "장두석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-37-정명재",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "정명재",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-콘테스트-1-1-심형래(동상)",
+      "broadcaster": "kbs",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "심형래(동상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-콘테스트-1-2-정찬욱(은상)",
+      "broadcaster": "kbs",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "정찬욱(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-콘테스트-1-3-노영석(금상)",
+      "broadcaster": "kbs",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "노영석(금상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-콘테스트-1-4-이승오(금상)",
+      "broadcaster": "kbs",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "이승오(금상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-콘테스트-2-1-이정문(은상)",
+      "broadcaster": "kbs",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1983",
+      "name": "이정문(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-콘테스트-2-2-조금산",
+      "broadcaster": "kbs",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1983",
+      "name": "조금산",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-콘테스트-3-1-김용",
+      "broadcaster": "kbs",
+      "generation": 3,
+      "track": "콘테스트",
+      "year": "1985",
+      "name": "김용",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-콘테스트-3-2-한혜승",
+      "broadcaster": "kbs",
+      "generation": 3,
+      "track": "콘테스트",
+      "year": "1985",
+      "name": "한혜승",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-1-양종철",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "양종철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-2-이현순",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "이현순",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-3-임인하",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "임인하",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-4-전형진",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "전형진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-5-조문식",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "조문식",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-6-서원섭",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "서원섭",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-7-정우진",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "정우진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-8-김황우",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "김황우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-9-박현웅",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "박현웅",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-10-김정빈",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "김정빈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-11-김호남",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "김호남",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-12-김영선",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "김영선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-13-문정숙",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "문정숙",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-14-하상훈",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "하상훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-15-이숙녀",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "이숙녀",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-4-16-김혜란",
+      "broadcaster": "kbs",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1986",
+      "name": "김혜란",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-5-1-김종국",
+      "broadcaster": "kbs",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1987",
+      "name": "김종국",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-5-2-김진호",
+      "broadcaster": "kbs",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1987",
+      "name": "김진호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-5-3-이희구",
+      "broadcaster": "kbs",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1987",
+      "name": "이희구",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-5-4-안숙희",
+      "broadcaster": "kbs",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1987",
+      "name": "안숙희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-5-5-오성우",
+      "broadcaster": "kbs",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1987",
+      "name": "오성우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-코미디 탤런트-5-6-오재미",
+      "broadcaster": "kbs",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1987",
+      "name": "오재미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-6-1-김지선",
+      "broadcaster": "kbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "1990",
+      "name": "김지선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-6-2-서인석",
+      "broadcaster": "kbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "1990",
+      "name": "서인석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-6-3-김찬",
+      "broadcaster": "kbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "1990",
+      "name": "김찬",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-6-4-배동성",
+      "broadcaster": "kbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "1990",
+      "name": "배동성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-6-5-백현욱",
+      "broadcaster": "kbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "1990",
+      "name": "백현욱",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-6-6-김민석",
+      "broadcaster": "kbs",
+      "generation": 6,
+      "track": "공채",
+      "year": "1990",
+      "name": "김민석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-7-1-김용만(대상)",
+      "broadcaster": "kbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "1991",
+      "name": "김용만(대상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-7-2-이영재(금상)",
+      "broadcaster": "kbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "1991",
+      "name": "이영재(금상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-7-3-김수용(장려상)",
+      "broadcaster": "kbs",
+      "generation": 7,
+      "track": "공채",
+      "year": "1991",
+      "name": "김수용(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-8-1-김태호(본명 김광현)",
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "name": "김태호(본명 김광현)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-8-2-한송이",
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "name": "한송이",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-8-3-남진아",
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "name": "남진아",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-8-4-윤국일",
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "name": "윤국일",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-8-5-정헌범",
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "name": "정헌범",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-8-6-한상우",
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "name": "한상우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-8-7-황창주",
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "name": "황창주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-8-8-신재수",
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "name": "신재수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-8-9-김만호",
+      "broadcaster": "kbs",
+      "generation": 8,
+      "track": "공채",
+      "year": "1991",
+      "name": "김만호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-9-1-세리(은상)",
+      "broadcaster": "kbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "1992",
+      "name": "세리(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-9-2-김병재(장려상)",
+      "broadcaster": "kbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "1992",
+      "name": "김병재(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-9-3-손동환(장려상)",
+      "broadcaster": "kbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "1992",
+      "name": "손동환(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-9-4-아래는 데뷔가 불확실한 수상자들.",
+      "broadcaster": "kbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "1992",
+      "name": "아래는 데뷔가 불확실한 수상자들.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-9-5-이정희(장려상)",
+      "broadcaster": "kbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "1992",
+      "name": "이정희(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-9-6-권정민(장려상)",
+      "broadcaster": "kbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "1992",
+      "name": "권정민(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-9-7-조성준(은상)",
+      "broadcaster": "kbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "1992",
+      "name": "조성준(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-9-8-오지연(은상)",
+      "broadcaster": "kbs",
+      "generation": 9,
+      "track": "공채",
+      "year": "1992",
+      "name": "오지연(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-10-1-이덕재",
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "name": "이덕재",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-10-2-이태식",
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "name": "이태식",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-10-3-김성규",
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "name": "김성규",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-10-4-이병진",
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "name": "이병진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-10-5-이인철",
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "name": "이인철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-10-6-장웅",
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "name": "장웅",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-10-7-송은이",
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "name": "송은이",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-10-8-지석진",
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "name": "지석진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-10-9-김생민",
+      "broadcaster": "kbs",
+      "generation": 10,
+      "track": "특채",
+      "year": "1993",
+      "name": "김생민",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-11-1-아래는 데뷔가 불확실한 수상자들.",
+      "broadcaster": "kbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "1994",
+      "name": "아래는 데뷔가 불확실한 수상자들.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-11-2-이춘선(장려상)",
+      "broadcaster": "kbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "1994",
+      "name": "이춘선(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-11-3-임수철(은상)",
+      "broadcaster": "kbs",
+      "generation": 11,
+      "track": "공채",
+      "year": "1994",
+      "name": "임수철(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-12-1-마지막 대학개그제",
+      "broadcaster": "kbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "1995",
+      "name": "마지막 대학개그제",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-12-2-김숙(은상)",
+      "broadcaster": "kbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "1995",
+      "name": "김숙(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-12-3-한상규",
+      "broadcaster": "kbs",
+      "generation": 12,
+      "track": "공채",
+      "year": "1995",
+      "name": "한상규",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-13-1-김미자",
+      "broadcaster": "kbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "1997",
+      "name": "김미자",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-13-2-김현희",
+      "broadcaster": "kbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "1997",
+      "name": "김현희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-13-3-박성호",
+      "broadcaster": "kbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "1997",
+      "name": "박성호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-13-4-박준형",
+      "broadcaster": "kbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "1997",
+      "name": "박준형",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-13-5-유재현",
+      "broadcaster": "kbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "1997",
+      "name": "유재현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-13-6-임혁필",
+      "broadcaster": "kbs",
+      "generation": 13,
+      "track": "공채",
+      "year": "1997",
+      "name": "임혁필",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-14-1-김대희",
+      "broadcaster": "kbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "1999",
+      "name": "김대희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-14-2-김미진",
+      "broadcaster": "kbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "1999",
+      "name": "김미진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-14-3-김상태",
+      "broadcaster": "kbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "1999",
+      "name": "김상태",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-14-4-김영철",
+      "broadcaster": "kbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "1999",
+      "name": "김영철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-14-5-박은혜",
+      "broadcaster": "kbs",
+      "generation": 14,
+      "track": "공채",
+      "year": "1999",
+      "name": "박은혜",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-15-1-권혜수",
+      "broadcaster": "kbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2000",
+      "name": "권혜수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-15-2-김혜진",
+      "broadcaster": "kbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2000",
+      "name": "김혜진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-15-3-남상호",
+      "broadcaster": "kbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2000",
+      "name": "남상호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-15-4-남진우",
+      "broadcaster": "kbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2000",
+      "name": "남진우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-15-5-윤석주",
+      "broadcaster": "kbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2000",
+      "name": "윤석주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-15-6-정종철",
+      "broadcaster": "kbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2000",
+      "name": "정종철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-15-7-조수원",
+      "broadcaster": "kbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2000",
+      "name": "조수원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-15-8-홍종호",
+      "broadcaster": "kbs",
+      "generation": 15,
+      "track": "공채",
+      "year": "2000",
+      "name": "홍종호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-16-1-김인석",
+      "broadcaster": "kbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2001",
+      "name": "김인석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-16-2-손소연",
+      "broadcaster": "kbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2001",
+      "name": "손소연",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-16-3-윤선희",
+      "broadcaster": "kbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2001",
+      "name": "윤선희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-16-4-이재훈",
+      "broadcaster": "kbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2001",
+      "name": "이재훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-16-5-정명훈",
+      "broadcaster": "kbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2001",
+      "name": "정명훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-16-6-윤성호",
+      "broadcaster": "kbs",
+      "generation": 16,
+      "track": "공채",
+      "year": "2001",
+      "name": "윤성호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-17-1-권진영",
+      "broadcaster": "kbs",
+      "generation": 17,
+      "track": "공채",
+      "year": "2002",
+      "name": "권진영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-17-2-김다래",
+      "broadcaster": "kbs",
+      "generation": 17,
+      "track": "공채",
+      "year": "2002",
+      "name": "김다래",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-17-3-김병만",
+      "broadcaster": "kbs",
+      "generation": 17,
+      "track": "공채",
+      "year": "2002",
+      "name": "김병만",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-17-4-이정수",
+      "broadcaster": "kbs",
+      "generation": 17,
+      "track": "공채",
+      "year": "2002",
+      "name": "이정수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-17-5-정형돈",
+      "broadcaster": "kbs",
+      "generation": 17,
+      "track": "공채",
+      "year": "2002",
+      "name": "정형돈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-18-1-김병헌",
+      "broadcaster": "kbs",
+      "generation": 18,
+      "track": "공채",
+      "year": "2003",
+      "name": "김병헌",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-18-2-김진철",
+      "broadcaster": "kbs",
+      "generation": 18,
+      "track": "공채",
+      "year": "2003",
+      "name": "김진철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-18-3-류담",
+      "broadcaster": "kbs",
+      "generation": 18,
+      "track": "공채",
+      "year": "2003",
+      "name": "류담",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-18-4-오지헌",
+      "broadcaster": "kbs",
+      "generation": 18,
+      "track": "공채",
+      "year": "2003",
+      "name": "오지헌",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-18-5-장동혁",
+      "broadcaster": "kbs",
+      "generation": 18,
+      "track": "공채",
+      "year": "2003",
+      "name": "장동혁",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-18-6-채경선",
+      "broadcaster": "kbs",
+      "generation": 18,
+      "track": "공채",
+      "year": "2003",
+      "name": "채경선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-18-7-하지영",
+      "broadcaster": "kbs",
+      "generation": 18,
+      "track": "공채",
+      "year": "2003",
+      "name": "하지영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-1-강유미",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "강유미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-2-김대범",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "김대범",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-3-안상태",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "안상태",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-4-안영미",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "안영미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-5-유상무",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "유상무",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-6-유세윤",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "유세윤",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-7-장동민",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "장동민",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-8-홍경준",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "홍경준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-9-홍인규",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "홍인규",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-19-10-황현희",
+      "broadcaster": "kbs",
+      "generation": 19,
+      "track": "공채",
+      "year": "2004",
+      "name": "황현희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-1-김선하",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "김선하",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-2-김재욱",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "김재욱",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-3-김지환",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "김지환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-4-김진",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "김진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-5-노우진",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "노우진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-6-박휘순",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "박휘순",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-7-변승윤",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "변승윤",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-8-신고은",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "신고은",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-9-신봉선",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "신봉선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-10-유민상",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "유민상",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-11-이동윤",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "이동윤",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-12-이상구",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "이상구",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-13-정경미",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "정경미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-20-14-조지훈",
+      "broadcaster": "kbs",
+      "generation": 20,
+      "track": "공채",
+      "year": "2005",
+      "name": "조지훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-1-권재관",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "권재관",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-2-김경아",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "김경아",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-3-김종은",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "김종은",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-4-김지민",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "김지민",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-5-박나래",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "박나래",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-6-이혜석",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "이혜석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-7-한민관",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "한민관",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-8-홍순목",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "홍순목",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-9-차민준",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "차민준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-특채-21-10-곽한구",
+      "broadcaster": "kbs",
+      "generation": 21,
+      "track": "특채",
+      "year": "2006",
+      "name": "곽한구",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-1-곽현화",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "곽현화",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-2-김준현",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "김준현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-3-김지호",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "김지호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-4-박지선",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "박지선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-5-성현주",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "성현주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-6-양상국",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "양상국",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-7-양선일",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "양선일",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-8-이원구",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "이원구",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-9-장도연",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "장도연",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-10-장효인",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "장효인",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-11-조윤호",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "조윤호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-12-최효종",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "최효종",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-13-허경환",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "허경환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-22-14-허미영",
+      "broadcaster": "kbs",
+      "generation": 22,
+      "track": "공채",
+      "year": "2007",
+      "name": "허미영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-23-1-김희원",
+      "broadcaster": "kbs",
+      "generation": 23,
+      "track": "공채",
+      "year": "2008",
+      "name": "김희원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-23-2-남영환",
+      "broadcaster": "kbs",
+      "generation": 23,
+      "track": "공채",
+      "year": "2008",
+      "name": "남영환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-23-3-오나미",
+      "broadcaster": "kbs",
+      "generation": 23,
+      "track": "공채",
+      "year": "2008",
+      "name": "오나미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-23-4-조승희",
+      "broadcaster": "kbs",
+      "generation": 23,
+      "track": "공채",
+      "year": "2008",
+      "name": "조승희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-25-1-김장군",
+      "broadcaster": "kbs",
+      "generation": 25,
+      "track": "공채",
+      "year": "2010",
+      "name": "김장군",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-25-2-이성동",
+      "broadcaster": "kbs",
+      "generation": 25,
+      "track": "공채",
+      "year": "2010",
+      "name": "이성동",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-25-3-신종령",
+      "broadcaster": "kbs",
+      "generation": 25,
+      "track": "공채",
+      "year": "2010",
+      "name": "신종령",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-26-1-김수영",
+      "broadcaster": "kbs",
+      "generation": 26,
+      "track": "공채",
+      "year": "2011",
+      "name": "김수영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-26-2-이문재",
+      "broadcaster": "kbs",
+      "generation": 26,
+      "track": "공채",
+      "year": "2011",
+      "name": "이문재",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-27-1-오기환",
+      "broadcaster": "kbs",
+      "generation": 27,
+      "track": "공채",
+      "year": "2012",
+      "name": "오기환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-27-2-이수지",
+      "broadcaster": "kbs",
+      "generation": 27,
+      "track": "공채",
+      "year": "2012",
+      "name": "이수지",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-28-1-윤한민",
+      "broadcaster": "kbs",
+      "generation": 28,
+      "track": "공채",
+      "year": "2013",
+      "name": "윤한민",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-29-1-김니나",
+      "broadcaster": "kbs",
+      "generation": 29,
+      "track": "공채",
+      "year": "2014",
+      "name": "김니나",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-29-2-김승혜",
+      "broadcaster": "kbs",
+      "generation": 29,
+      "track": "공채",
+      "year": "2014",
+      "name": "김승혜",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-29-3-송준석",
+      "broadcaster": "kbs",
+      "generation": 29,
+      "track": "공채",
+      "year": "2014",
+      "name": "송준석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-29-4-윤승현",
+      "broadcaster": "kbs",
+      "generation": 29,
+      "track": "공채",
+      "year": "2014",
+      "name": "윤승현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-31-1-최희령",
+      "broadcaster": "kbs",
+      "generation": 31,
+      "track": "공채",
+      "year": "2016",
+      "name": "최희령",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-33-1-서아름",
+      "broadcaster": "kbs",
+      "generation": 33,
+      "track": "공채",
+      "year": "2023",
+      "name": "서아름",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-33-2-임선양",
+      "broadcaster": "kbs",
+      "generation": 33,
+      "track": "공채",
+      "year": "2023",
+      "name": "임선양",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-33-3-이지수",
+      "broadcaster": "kbs",
+      "generation": 33,
+      "track": "공채",
+      "year": "2023",
+      "name": "이지수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-1-실사 루이지는 후배 개그맨인 김종국.",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "실사 루이지는 후배 개그맨인 김종국.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-2-특히 통신사 광고에서 \"짜장면 시키셨죠?\", \"짜장면 시키신 분?!\" 의 유행어를 남겼다.",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "특히 통신사 광고에서 \"짜장면 시키셨죠?\", \"짜장면 시키신 분?!\" 의 유행어를 남겼다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-3-한양대 신문방송학과 출신",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "한양대 신문방송학과 출신",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-4-기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-5-나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-6-namu.wiki",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "namu.wiki",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-7-Contáctenos",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "Contáctenos",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-8-Términos de uso",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "Términos de uso",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-9-Operado por umanle S.R.L.",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "Operado por umanle S.R.L.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-10-Hecho con ❤️ en Asunción, República del Paraguay",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "Hecho con ❤️ en Asunción, República del Paraguay",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-11-Su zona horaria es GMT",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "Su zona horaria es GMT",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "kbs-공채-34-12-Impulsado por the seed engine",
+      "broadcaster": "kbs",
+      "generation": 34,
+      "track": "공채",
+      "year": "2025",
+      "name": "Impulsado por the seed engine",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-1-구봉서",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "구봉서",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-2-배삼룡",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "배삼룡",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-3-김희자",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "김희자",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-4-이기동",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "이기동",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-5-이영일",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "이영일",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-6-이대성",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "이대성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-7-손치원",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "손치원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-8-유하나",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "유하나",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-9-이병희",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "이병희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-10-이기철",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "이기철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-11-양윤희",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "양윤희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-12-홍우례",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "홍우례",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-1-1-이용식",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "코미디 탤런트",
+      "year": "1975",
+      "name": "이용식",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-1-2-노한욱",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "코미디 탤런트",
+      "year": "1975",
+      "name": "노한욱",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-2-1-김한일",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "코미디 탤런트",
+      "year": "1978",
+      "name": "김한일",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-2-2-박미애",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "코미디 탤런트",
+      "year": "1978",
+      "name": "박미애",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-2-3-여정건",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "코미디 탤런트",
+      "year": "1978",
+      "name": "여정건",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-2-4-이문식",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "코미디 탤런트",
+      "year": "1978",
+      "name": "이문식",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-2-5-정애자",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "코미디 탤런트",
+      "year": "1978",
+      "name": "정애자",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-2-6-한무",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "코미디 탤런트",
+      "year": "1978",
+      "name": "한무",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-1-김덕성",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "김덕성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-2-김학성",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "김학성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-3-김종석",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "김종석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-4-나도국",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "나도국",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-5-정귀영",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "정귀영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-6-근종기",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "근종기",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-7-정부미(양용남)",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "정부미(양용남)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-8-박경순",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "박경순",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-9-김혜영",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "김혜영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-10-전정희",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "전정희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-11-김영옥",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "김영옥",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-12-원경애",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "원경애",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-13-이효신",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "이효신",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-14-정성월",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "정성월",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-15-이은순",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "이은순",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-16-최미진",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "최미진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-3-17-한월순",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "코미디 탤런트",
+      "year": "1981",
+      "name": "한월순",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-4-1-김상욱",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1983",
+      "name": "김상욱",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-4-2-단덕수",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1983",
+      "name": "단덕수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-4-3-백승혜",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1983",
+      "name": "백승혜",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-4-4-유자방",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1983",
+      "name": "유자방",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-4-5-이성윤",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1983",
+      "name": "이성윤",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-4-6-정혜경",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1983",
+      "name": "정혜경",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-4-7-조현미",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1983",
+      "name": "조현미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-4-8-배영만",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "코미디 탤런트",
+      "year": "1983",
+      "name": "배영만",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-5-1-김상호",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1984",
+      "name": "김상호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-5-2-문옥이",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1984",
+      "name": "문옥이",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-5-3-박창현",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1984",
+      "name": "박창현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-5-4-오연숙",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1984",
+      "name": "오연숙",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-5-5-이문수",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1984",
+      "name": "이문수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-5-6-임성균",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1984",
+      "name": "임성균",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-코미디 탤런트-5-7-조재호",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "코미디 탤런트",
+      "year": "1984",
+      "name": "조재호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-1-1-김보화(장려상)",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1981",
+      "name": "김보화(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-1-2-이경규(인기상)",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1981",
+      "name": "이경규(인기상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-1-3-박세민",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1981",
+      "name": "박세민",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-1-4-이철구",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "콘테스트",
+      "year": "1981",
+      "name": "이철구",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-2-1-최병서(대상, 인기상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "최병서(대상, 인기상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-2-2-황기순(금상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "황기순(금상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-2-3-정광석(은상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "정광석(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-2-4-허태규(은상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "허태규(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-2-5-김문섭(동상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "김문섭(동상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-2-6-김창준",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "콘테스트",
+      "year": "1982",
+      "name": "김창준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-3-1-장용(장려상)",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "콘테스트",
+      "year": "1983",
+      "name": "장용(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-3-2-배영만",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "콘테스트",
+      "year": "1983",
+      "name": "배영만",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-3-3-정재환",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "콘테스트",
+      "year": "1983",
+      "name": "정재환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-3-4-이재포",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "콘테스트",
+      "year": "1983",
+      "name": "이재포",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-콘테스트-3-5-김경태",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "콘테스트",
+      "year": "1983",
+      "name": "김경태",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-1-1-이경실(금상)",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "공채",
+      "year": "1987",
+      "name": "이경실(금상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-1-2-정재윤",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "공채",
+      "year": "1987",
+      "name": "정재윤",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-1-3-정이래(동상)",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "공채",
+      "year": "1987",
+      "name": "정이래(동상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-1-4-최홍림(동상)",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "공채",
+      "year": "1987",
+      "name": "최홍림(동상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-1-5-남효정",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "공채",
+      "year": "1987",
+      "name": "남효정",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-1-6-최고봉",
+      "broadcaster": "mbc",
+      "generation": 1,
+      "track": "공채",
+      "year": "1987",
+      "name": "최고봉",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-2-1-전은우(대상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "공채",
+      "year": "1988",
+      "name": "전은우(대상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-2-2-박미선(금상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "공채",
+      "year": "1988",
+      "name": "박미선(금상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-2-3-표명선(은상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "공채",
+      "year": "1988",
+      "name": "표명선(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-2-4-조현정(은상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "공채",
+      "year": "1988",
+      "name": "조현정(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-2-5-김형진(동상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "공채",
+      "year": "1988",
+      "name": "김형진(동상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-2-6-천선미(동상)",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "공채",
+      "year": "1988",
+      "name": "천선미(동상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-2-7-장기철",
+      "broadcaster": "mbc",
+      "generation": 2,
+      "track": "공채",
+      "year": "1988",
+      "name": "장기철",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-3-1-서승만(대상)",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "공채",
+      "year": "1989~1992",
+      "name": "서승만(대상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-3-2-최왕순",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "공채",
+      "year": "1989~1992",
+      "name": "최왕순",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-3-3-최성훈",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "공채",
+      "year": "1989~1992",
+      "name": "최성훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-3-4-이영자",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "공채",
+      "year": "1989~1992",
+      "name": "이영자",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-3-5-이휘재",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "공채",
+      "year": "1989~1992",
+      "name": "이휘재",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-3-6-김한석",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "공채",
+      "year": "1989~1992",
+      "name": "김한석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-3-7-김유택",
+      "broadcaster": "mbc",
+      "generation": 3,
+      "track": "공채",
+      "year": "1989~1992",
+      "name": "김유택",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-1-서경석(금상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "서경석(금상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-2-김수진(금상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "김수진(금상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-3-이윤석(은상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "이윤석(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-4-이은혜(은상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "이은혜(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-5-박경아(은상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "박경아(은상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-6-나경훈(장려상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "나경훈(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-7-표영호(장려상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "표영호(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-8-장경란(장려상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "장경란(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-9-박명수(장려상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "박명수(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-10-김학도(장려상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "김학도(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-4-11-서춘화(장려상)",
+      "broadcaster": "mbc",
+      "generation": 4,
+      "track": "공채",
+      "year": "1993",
+      "name": "서춘화(장려상)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-5-1-정찬우",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "공채",
+      "year": "1994",
+      "name": "정찬우",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-5-2-김태균",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "공채",
+      "year": "1994",
+      "name": "김태균",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-5-3-김광회",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "공채",
+      "year": "1994",
+      "name": "김광회",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-5-4-배태선",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "공채",
+      "year": "1994",
+      "name": "배태선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-5-5-임은실",
+      "broadcaster": "mbc",
+      "generation": 5,
+      "track": "공채",
+      "year": "1994",
+      "name": "임은실",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-6-1-한재진",
+      "broadcaster": "mbc",
+      "generation": 6,
+      "track": "공채",
+      "year": "1995",
+      "name": "한재진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-6-2-김장렬",
+      "broadcaster": "mbc",
+      "generation": 6,
+      "track": "공채",
+      "year": "1995",
+      "name": "김장렬",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-6-3-이희찬",
+      "broadcaster": "mbc",
+      "generation": 6,
+      "track": "공채",
+      "year": "1995",
+      "name": "이희찬",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-6-4-장수정",
+      "broadcaster": "mbc",
+      "generation": 6,
+      "track": "공채",
+      "year": "1995",
+      "name": "장수정",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-6-5-이희진",
+      "broadcaster": "mbc",
+      "generation": 6,
+      "track": "공채",
+      "year": "1995",
+      "name": "이희진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-6-6-최진희",
+      "broadcaster": "mbc",
+      "generation": 6,
+      "track": "공채",
+      "year": "1995",
+      "name": "최진희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-6-7-이은지",
+      "broadcaster": "mbc",
+      "generation": 6,
+      "track": "공채",
+      "year": "1995",
+      "name": "이은지",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-6-8-안선희",
+      "broadcaster": "mbc",
+      "generation": 6,
+      "track": "공채",
+      "year": "1995",
+      "name": "안선희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-7-1-노정렬",
+      "broadcaster": "mbc",
+      "generation": 7,
+      "track": "공채",
+      "year": "1996",
+      "name": "노정렬",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-7-2-최현진",
+      "broadcaster": "mbc",
+      "generation": 7,
+      "track": "공채",
+      "year": "1996",
+      "name": "최현진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-7-3-정경숙",
+      "broadcaster": "mbc",
+      "generation": 7,
+      "track": "공채",
+      "year": "1996",
+      "name": "정경숙",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-7-4-이은애",
+      "broadcaster": "mbc",
+      "generation": 7,
+      "track": "공채",
+      "year": "1996",
+      "name": "이은애",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-7-5-서태석",
+      "broadcaster": "mbc",
+      "generation": 7,
+      "track": "공채",
+      "year": "1996",
+      "name": "서태석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-8-1-문경훈",
+      "broadcaster": "mbc",
+      "generation": 8,
+      "track": "공채",
+      "year": "1997",
+      "name": "문경훈",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-8-2-전광희",
+      "broadcaster": "mbc",
+      "generation": 8,
+      "track": "공채",
+      "year": "1997",
+      "name": "전광희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-8-3-이태일",
+      "broadcaster": "mbc",
+      "generation": 8,
+      "track": "공채",
+      "year": "1997",
+      "name": "이태일",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-8-4-김상준",
+      "broadcaster": "mbc",
+      "generation": 8,
+      "track": "공채",
+      "year": "1997",
+      "name": "김상준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-8-5-박혜숙",
+      "broadcaster": "mbc",
+      "generation": 8,
+      "track": "공채",
+      "year": "1997",
+      "name": "박혜숙",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-9-1-정성호",
+      "broadcaster": "mbc",
+      "generation": 9,
+      "track": "공채",
+      "year": "1998",
+      "name": "정성호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-9-2-고정호",
+      "broadcaster": "mbc",
+      "generation": 9,
+      "track": "공채",
+      "year": "1998",
+      "name": "고정호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-9-3-강우석",
+      "broadcaster": "mbc",
+      "generation": 9,
+      "track": "공채",
+      "year": "1998",
+      "name": "강우석",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-9-4-방용화",
+      "broadcaster": "mbc",
+      "generation": 9,
+      "track": "공채",
+      "year": "1998",
+      "name": "방용화",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-9-5-이칠선",
+      "broadcaster": "mbc",
+      "generation": 9,
+      "track": "공채",
+      "year": "1998",
+      "name": "이칠선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-10-1-문천식",
+      "broadcaster": "mbc",
+      "generation": 10,
+      "track": "공채",
+      "year": "1999",
+      "name": "문천식",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-10-2-라윤경",
+      "broadcaster": "mbc",
+      "generation": 10,
+      "track": "공채",
+      "year": "1999",
+      "name": "라윤경",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-12-1-이은호",
+      "broadcaster": "mbc",
+      "generation": 12,
+      "track": "공채",
+      "year": "2001",
+      "name": "이은호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-14-1-이선미",
+      "broadcaster": "mbc",
+      "generation": 14,
+      "track": "공채",
+      "year": "2004",
+      "name": "이선미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-14-2-김완기",
+      "broadcaster": "mbc",
+      "generation": 14,
+      "track": "공채",
+      "year": "2004",
+      "name": "김완기",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-14-3-곽신봉",
+      "broadcaster": "mbc",
+      "generation": 14,
+      "track": "공채",
+      "year": "2004",
+      "name": "곽신봉",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-15-1-김주연",
+      "broadcaster": "mbc",
+      "generation": 15,
+      "track": "공채",
+      "year": "2006",
+      "name": "김주연",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-15-2-이문원",
+      "broadcaster": "mbc",
+      "generation": 15,
+      "track": "공채",
+      "year": "2006",
+      "name": "이문원",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-15-3-이국주",
+      "broadcaster": "mbc",
+      "generation": 15,
+      "track": "공채",
+      "year": "2006",
+      "name": "이국주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-15-4-조승제",
+      "broadcaster": "mbc",
+      "generation": 15,
+      "track": "공채",
+      "year": "2006",
+      "name": "조승제",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-15-5-채명성",
+      "broadcaster": "mbc",
+      "generation": 15,
+      "track": "공채",
+      "year": "2006",
+      "name": "채명성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-15-6-신동수",
+      "broadcaster": "mbc",
+      "generation": 15,
+      "track": "공채",
+      "year": "2006",
+      "name": "신동수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-15-7-함효주",
+      "broadcaster": "mbc",
+      "generation": 15,
+      "track": "공채",
+      "year": "2006",
+      "name": "함효주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-16-1-박초은",
+      "broadcaster": "mbc",
+      "generation": 16,
+      "track": "공채",
+      "year": "2007",
+      "name": "박초은",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-16-2-오다온",
+      "broadcaster": "mbc",
+      "generation": 16,
+      "track": "공채",
+      "year": "2007",
+      "name": "오다온",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-16-3-유정승",
+      "broadcaster": "mbc",
+      "generation": 16,
+      "track": "공채",
+      "year": "2007",
+      "name": "유정승",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-16-4-이도윤",
+      "broadcaster": "mbc",
+      "generation": 16,
+      "track": "공채",
+      "year": "2007",
+      "name": "이도윤",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-16-5-이시온",
+      "broadcaster": "mbc",
+      "generation": 16,
+      "track": "공채",
+      "year": "2007",
+      "name": "이시온",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-16-6-홍성진",
+      "broadcaster": "mbc",
+      "generation": 16,
+      "track": "공채",
+      "year": "2007",
+      "name": "홍성진",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-17-1-기승미",
+      "broadcaster": "mbc",
+      "generation": 17,
+      "track": "공채",
+      "year": "2008",
+      "name": "기승미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-17-2-유대은",
+      "broadcaster": "mbc",
+      "generation": 17,
+      "track": "공채",
+      "year": "2008",
+      "name": "유대은",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-17-3-조성미",
+      "broadcaster": "mbc",
+      "generation": 17,
+      "track": "공채",
+      "year": "2008",
+      "name": "조성미",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-17-4-최설아",
+      "broadcaster": "mbc",
+      "generation": 17,
+      "track": "공채",
+      "year": "2008",
+      "name": "최설아",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-18-1-김근현",
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "name": "김근현",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-18-2-박지후",
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "name": "박지후",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-18-3-박진용",
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "name": "박진용",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-18-4-양해림",
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "name": "양해림",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-18-5-오주은",
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "name": "오주은",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-18-6-이지성",
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "name": "이지성",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-18-7-이지수",
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "name": "이지수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-18-8-이정규",
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "name": "이정규",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-18-9-최재호",
+      "broadcaster": "mbc",
+      "generation": 18,
+      "track": "공채",
+      "year": "2009",
+      "name": "최재호",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-19-1-김병준",
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "name": "김병준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-19-2-김용재",
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "name": "김용재",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-19-3-박찬혁",
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "name": "박찬혁",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-19-4-박현정",
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "name": "박현정",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-19-5-신완순",
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "name": "신완순",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-19-6-심정은",
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "name": "심정은",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-19-7-유미선",
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "name": "유미선",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-19-8-윤상민",
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "name": "윤상민",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-19-9-이준수",
+      "broadcaster": "mbc",
+      "generation": 19,
+      "track": "공채",
+      "year": "2012",
+      "name": "이준수",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-1-권형준",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "권형준",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-2-김마주",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "김마주",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-3-김상희",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "김상희",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-4-김정구",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "김정구",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-5-오지환",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "오지환",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-6-허민행",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "허민행",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-7-기사",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "기사",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-8-데뷔 초 신문선 성대모사로 이름을 알렸다.",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "데뷔 초 신문선 성대모사로 이름을 알렸다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-9-MBC에선 후배였던 김영희가 KBS에선 선배로 선후배 관계가 바뀌게 되었다.",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "MBC에선 후배였던 김영희가 KBS에선 선배로 선후배 관계가 바뀌게 되었다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-10-기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-11-나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-12-네팔",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "네팔",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-13-박위",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "박위",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-14-lck",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "lck",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-15-돌리 파튼",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "돌리 파튼",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-16-김도영",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "김도영",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-17-장미란 실종 사건",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "장미란 실종 사건",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-18-이진숙",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "이진숙",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-19-사비뉴",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "사비뉴",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-20-오디세이",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "오디세이",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-21-JLPT",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "JLPT",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-22-아카시 카제마루",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "아카시 카제마루",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-23-튀르키예군",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "튀르키예군",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-24-공각기동대(극장판)",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "공각기동대(극장판)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-25-Riven Pilgrimage",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "Riven Pilgrimage",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-26-키친 나이트메어",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "키친 나이트메어",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-27-히바치(란스 시리즈)",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "히바치(란스 시리즈)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-28-코리아컵(축구)",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "코리아컵(축구)",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-29-바스티온",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "바스티온",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-30-채서일",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "채서일",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-31-namu.wiki",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "namu.wiki",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-32-Contáctenos",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "Contáctenos",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-33-Términos de uso",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "Términos de uso",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-34-Operado por umanle S.R.L.",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "Operado por umanle S.R.L.",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-35-Hecho con ❤️ en Asunción, República del Paraguay",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "Hecho con ❤️ en Asunción, República del Paraguay",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-36-Su zona horaria es UTC",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "Su zona horaria es UTC",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    },
+    {
+      "id": "mbc-공채-20-37-Impulsado por the seed engine",
+      "broadcaster": "mbc",
+      "generation": 20,
+      "track": "공채",
+      "year": "2013",
+      "name": "Impulsado por the seed engine",
+      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요"
+    }
+  ]
+}

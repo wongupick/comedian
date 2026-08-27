@@ -160,6 +160,20 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .tag-row { display: flex; flex-wrap: wrap; gap: 7px; }
 .tag-row span, .generation-chip { padding: 6px 8px; border: 1px solid rgba(90, 32, 42, .32); color: #5a202a; font: 9px "IBM Plex Mono", monospace; letter-spacing: .05em; }
 .profile-card-copy .text-arrow-button { align-self: flex-start; margin-top: 29px; }
+.profile-results { margin-top: 6px; }
+.results-meta { display: flex; justify-content: space-between; margin: 0 0 13px; color: #9a8175; font: 9px "IBM Plex Mono", monospace; letter-spacing: .1em; }
+.profile-results-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 15px; }
+.profile-results-grid .profile-card { min-height: 225px; grid-template-columns: 40% 60%; }
+.profile-results-grid .profile-card-visual { min-height: 225px; }
+.profile-results-grid .portrait-slot { margin: 11px 25px 11px 11px; }
+.profile-results-grid .profile-card-copy { padding: 23px 23px 20px; }
+.profile-results-grid .profile-card-top h3 { margin-top: 14px; font-size: 32px; }
+.profile-results-grid .profile-card-top .profile-number { font-size: 15px; }
+.profile-results-grid .profile-note { margin: 13px 0 11px; font-size: 10px; line-height: 1.55; }
+.profile-results-grid .tag-row { gap: 4px; }
+.profile-results-grid .tag-row span { padding: 4px 5px; font-size: 8px; }
+.profile-results-grid .profile-card-copy .text-arrow-button { margin-top: 17px; font-size: 10px; }
+.results-more { margin: 19px 0 0; color: #8c7469; font-size: 11px; }
 .empty-archive { display: flex; align-items: flex-start; gap: 24px; min-height: 300px; padding: 52px 42px; border: 1px dashed rgba(90, 32, 42, .36); background: rgba(255, 255, 255, .18); position: relative; }
 .empty-file-icon { width: 51px; height: 63px; display: grid; place-items: center; border: 1px solid #c4a99a; color: #a98b7e; }
 .empty-archive h3 { margin: 17px 0 12px; font: 500 30px "Bodoni Moda", serif; letter-spacing: -.04em; }
@@ -313,6 +327,8 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
   .broadcast-list { grid-template-columns: repeat(2, 1fr); }
   .archive-intro { display: block; }
   .archive-search { width: 100%; margin-top: 25px; }
+  .profile-results-grid { grid-template-columns: 1fr; }
+  .profile-results-grid .profile-card { grid-template-columns: 1fr; }
   .profile-card { grid-template-columns: 1fr; }
   .profile-card-visual { min-height: 230px; }
   .portrait-slot { margin-right: 32px; }

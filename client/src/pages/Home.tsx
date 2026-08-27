@@ -1,5 +1,6 @@
 /* 방송 아카이브 뮤지엄: 왼쪽 색인 레일과 오른쪽 큐레이션 캔버스, 종이·커튼·녹화등의 대비를 유지한다. */
 import { useMemo, useState } from "react";
+import rosterData from "../data/roster.json";
 import {
   Archive,
   ArrowDown,
@@ -30,6 +31,8 @@ type Profile = {
   name: string;
   broadcaster: Exclude<BroadcasterId, "all">;
   generation: number;
+  track: string;
+  year: string;
   role: string;
   note: string;
   tags: string[];
@@ -45,26 +48,28 @@ const broadcasters: { id: BroadcasterId; label: string; short: string }[] = [
   { id: "mbc", label: "MBC", short: "MBC" },
 ];
 
-const profiles: Profile[] = [
-  {
-    id: "yoo-jae-suk",
-    name: "유재석",
-    broadcaster: "sbs",
-    generation: 1,
-    role: "방송인 · 코미디언",
-    note: "공채 기수별 포트폴리오 입력 예시",
-    tags: ["SBS", "공채 1기", "PROFILE SAMPLE"],
-    catchphrase: "대표 유행어 입력 슬롯",
-    catchphraseNote: "방송에서 탄생한 대표 유행어와 캐릭터의 맥락을 기록해 주세요.",
-    activities: [
-      { year: "01", title: "공채 데뷔 기록", detail: "방송사 공채 기수와 첫 활동 정보를 입력하는 영역입니다.", state: "SLOT" },
-      { year: "02", title: "대표 프로그램 기록", detail: "프로그램명, 코너명, 방영 기간과 역할을 정리합니다.", state: "SLOT" },
-      { year: "03", title: "유행어·캐릭터 기록", detail: "유행어가 사용된 장면과 당시의 문화적 반응을 상세히 덧붙입니다.", state: "SLOT" },
-    ],
-  },
+const defaultActivities = (name: string, track: string) => [
+  { year: "01", title: "공채·데뷔 기록", detail: `${track} 기수와 첫 활동 정보를 확인·입력하는 영역입니다.`, state: "SOURCE" },
+  { year: "02", title: "대표 프로그램 기록", detail: `${name}의 프로그램명, 코너명, 방영 기간과 역할을 정리합니다.`, state: "SLOT" },
+  { year: "03", title: "유행어·캐릭터 기록", detail: "유행어가 사용된 장면과 캐릭터의 맥락을 상세히 덧붙입니다.", state: "SLOT" },
 ];
 
-const generations = Array.from({ length: 12 }, (_, index) => index + 1);
+const profiles: Profile[] = rosterData.records.map((record) => ({
+  id: record.id,
+  name: record.name,
+  broadcaster: record.broadcaster as Exclude<BroadcasterId, "all">,
+  generation: record.generation,
+  track: record.track,
+  year: record.year,
+  role: "코미디언 · 방송인",
+  note: "공개 자료 기준 · 실제 프로필 자료를 연결할 수 있습니다.",
+  tags: [record.broadcaster.toUpperCase(), record.generation ? `${record.track} ${record.generation}기` : record.track, record.year || "YEAR TBD"],
+  catchphrase: "대표 유행어 입력 슬롯",
+  catchphraseNote: "방송에서 탄생한 대표 유행어와 캐릭터의 맥락을 기록해 주세요.",
+  activities: defaultActivities(record.name, record.track),
+}));
+
+const generations = Array.from({ length: 34 }, (_, index) => index + 1);
 
 function scrollToId(id: string) {
   document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -73,12 +78,13 @@ function scrollToId(id: string) {
 export default function Home() {
   const [broadcaster, setBroadcaster] = useState<BroadcasterId>("all");
   const [generation, setGeneration] = useState(1);
+  const [selectedProfileId, setSelectedProfileId] = useState("");
   const [query, setQuery] = useState("");
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [videoPlaying, setVideoPlaying] = useState(false);
   const [notice, setNotice] = useState("");
 
-  const selectedProfile = useMemo(() => {
+  const selectedProfiles = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
     return profiles.filter((profile) => {
       const broadcasterMatch = broadcaster === "all" || profile.broadcaster === broadcaster;
@@ -88,12 +94,13 @@ export default function Home() {
     });
   }, [broadcaster, generation, query]);
 
-  const activeProfile = selectedProfile[0];
+  const activeProfile = selectedProfiles.find((profile) => profile.id === selectedProfileId) ?? selectedProfiles[0];
   const activeBroadcaster = broadcasters.find((item) => item.id === broadcaster) ?? broadcasters[0];
 
   function chooseBroadcaster(id: BroadcasterId) {
     setBroadcaster(id);
     setGeneration(1);
+    setSelectedProfileId("");
     setQuery("");
   }
 
@@ -140,7 +147,7 @@ export default function Home() {
             <p className="rail-copy">공채 기수라는 좌표로<br />웃음의 계보를 찾습니다.</p>
             <div className="broadcast-list" role="tablist" aria-label="방송사 선택">
               {broadcasters.map((item) => {
-                const count = item.id === "all" ? 1 : profiles.filter((profile) => profile.broadcaster === item.id).length;
+                const count = item.id === "all" ? profiles.length : profiles.filter((profile) => profile.broadcaster === item.id).length;
                 return <button key={item.id} type="button" role="tab" aria-selected={broadcaster === item.id} className={broadcaster === item.id ? "broadcast-tab active" : "broadcast-tab"} onClick={() => chooseBroadcaster(item.id)}><span>{item.short}</span><small>{item.label}</small><b>{String(count).padStart(2, "0")}</b></button>;
               })}
             </div>
@@ -153,10 +160,10 @@ export default function Home() {
               {generations.map((item) => <button key={item} type="button" role="tab" aria-selected={generation === item} className={generation === item ? "generation-tab active" : "generation-tab"} onClick={() => setGeneration(item)}>{item}<sup>기</sup></button>)}
             </div>
             <div className="archive-intro">
-              <div><p className="eyebrow"><span className="eyebrow-line" /> CURRENT SELECTION</p><h2>{activeBroadcaster.label} <span>/</span> 공채 {generation}기</h2></div>
+              <div><p className="eyebrow"><span className="eyebrow-line" /> CURRENT SELECTION</p><h2>{activeBroadcaster.label} <span>/</span> {generation}기 기록</h2></div>
               <div className="archive-search"><Search size={16} /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="이름, 유행어, 역할 검색" aria-label="프로필 검색" /></div>
             </div>
-            {activeProfile ? <ProfileCard profile={activeProfile} onOpen={() => scrollToId("profile")} /> : <EmptyArchive broadcaster={broadcaster} generation={generation} onRequest={() => showNotice("이 기수는 자료 입력을 기다리고 있습니다.")} />}
+            {selectedProfiles.length > 0 ? <div className="profile-results"><div className="results-meta"><span>{selectedProfiles.length} RECORDS FOUND</span><span>SELECT A DOSSIER TO OPEN</span></div><div className="profile-results-grid">{selectedProfiles.map((profile) => <ProfileCard key={profile.id} profile={profile} onOpen={() => { setSelectedProfileId(profile.id); scrollToId("profile"); }} />)}</div></div> : <EmptyArchive broadcaster={broadcaster} generation={generation} onRequest={() => showNotice("이 기수는 자료 입력을 기다리고 있습니다.")} />}
           </div>
         </section>
 
@@ -167,7 +174,7 @@ export default function Home() {
         </section>
 
         <section id="profile" className="profile-section content-anchor">
-          <div className="section-heading-row"><div><p className="eyebrow"><span className="eyebrow-line" /> PROFILE / {activeProfile ? activeProfile.tags[1].toUpperCase() : "EMPTY SLOT"}</p><h2>한 사람의<br /><i>웃음 기록</i></h2></div><div className="section-side-note"><span>DETAIL DOSSIER</span><br />프로필 이미지 · 활동내역 ·<br />유행어 상세 기술</div></div>
+          <div className="section-heading-row"><div><p className="eyebrow"><span className="eyebrow-line" /> PROFILE / {activeProfile ? `${activeProfile.broadcaster.toUpperCase()} ${activeProfile.generation || "SPECIAL"}G` : "EMPTY SLOT"}</p><h2>한 사람의<br /><i>웃음 기록</i></h2></div><div className="section-side-note"><span>DETAIL DOSSIER</span><br />프로필 이미지 · 활동내역 ·<br />유행어 상세 기술</div></div>
           {activeProfile ? <ProfileDetail profile={activeProfile} /> : <DetailEmpty />}
         </section>
 
@@ -201,7 +208,7 @@ function EmptyArchive({ broadcaster, generation, onRequest }: { broadcaster: Bro
 }
 
 function ProfileDetail({ profile }: { profile: Profile }) {
-  return <div className="detail-layout"><div className="detail-lead"><div className="detail-photo-slot"><Mic2 size={52} /><span>PROFILE IMAGE<br />SOURCE SLOT</span><small>4 : 5 PORTRAIT</small></div><div className="detail-lead-caption"><span>FIG. 03</span><span>{profile.name.toUpperCase()} / DOSSIER</span></div></div><div className="detail-content"><div className="detail-title-row"><div><span className="generation-chip">{profile.broadcaster.toUpperCase()} · 공채 {profile.generation}기</span><h3>{profile.name}</h3><p>{profile.role} / {profile.note}</p></div><span className="detail-id">ID: KCA-001</span></div><div className="catchphrase-box"><div className="box-label"><Sparkles size={14} /> CATCHPHRASE / 유행어 상세</div><h4>“{profile.catchphrase}”</h4><p>{profile.catchphraseNote}</p><div className="input-hint">+ 방송 장면, 사용 시기, 캐릭터 설명을 함께 입력할 수 있습니다.</div></div><div className="activity-header"><div><span className="box-label"><Clock3 size={14} /> ACTIVITY LOG</span><h4>활동내역</h4></div><span className="activity-count">{String(profile.activities.length).padStart(2, "0")} ENTRIES</span></div><div className="activity-list">{profile.activities.map((activity) => <div className="activity-item" key={activity.year}><span className="activity-number">{activity.year}</span><div><h5>{activity.title}</h5><p>{activity.detail}</p></div><span className="activity-state">{activity.state}</span></div>)}</div><div className="activity-image-slot"><div><Camera size={21} /><span>ACTIVITY IMAGE SLOT</span></div><p>활동내역별 방송 캡처·포스터·현장 이미지를<br />하단에 보존할 수 있도록 비워 둔 영역입니다.</p><button type="button" aria-label="활동내역 이미지 추가 슬롯" onClick={() => window.alert("활동내역 이미지를 연결할 수 있는 슬롯입니다.")}><Plus size={18} /></button></div></div></div>;
+  return <div className="detail-layout"><div className="detail-lead"><div className="detail-photo-slot"><Mic2 size={52} /><span>PROFILE IMAGE<br />SOURCE SLOT</span><small>4 : 5 PORTRAIT</small></div><div className="detail-lead-caption"><span>FIG. 03</span><span>{profile.name.toUpperCase()} / DOSSIER</span></div></div><div className="detail-content"><div className="detail-title-row"><div><span className="generation-chip">{profile.broadcaster.toUpperCase()} · {profile.track} {profile.generation || "특별"}기{profile.year && ` / ${profile.year}`}</span><h3>{profile.name}</h3><p>{profile.role} / {profile.note}</p></div><span className="detail-id">ID: KCA-001</span></div><div className="catchphrase-box"><div className="box-label"><Sparkles size={14} /> CATCHPHRASE / 유행어 상세</div><h4>“{profile.catchphrase}”</h4><p>{profile.catchphraseNote}</p><div className="input-hint">+ 방송 장면, 사용 시기, 캐릭터 설명을 함께 입력할 수 있습니다.</div></div><div className="activity-header"><div><span className="box-label"><Clock3 size={14} /> ACTIVITY LOG</span><h4>활동내역</h4></div><span className="activity-count">{String(profile.activities.length).padStart(2, "0")} ENTRIES</span></div><div className="activity-list">{profile.activities.map((activity) => <div className="activity-item" key={activity.year}><span className="activity-number">{activity.year}</span><div><h5>{activity.title}</h5><p>{activity.detail}</p></div><span className="activity-state">{activity.state}</span></div>)}</div><div className="activity-image-slot"><div><Camera size={21} /><span>ACTIVITY IMAGE SLOT</span></div><p>활동내역별 방송 캡처·포스터·현장 이미지를<br />하단에 보존할 수 있도록 비워 둔 영역입니다.</p><button type="button" aria-label="활동내역 이미지 추가 슬롯" onClick={() => window.alert("활동내역 이미지를 연결할 수 있는 슬롯입니다.")}><Plus size={18} /></button></div></div></div>;
 }
 
 function DetailEmpty() {
