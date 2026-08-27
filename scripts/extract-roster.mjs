@@ -14,7 +14,7 @@ const patterns = {
   mbc: /^(?:\d+\.\d+\.\s+)?MBC\s+(?:(?:코미디 탤런트|개그맨 콘테스트|공채)\s+)?(?:(\d+)기|특채|공채 이전)/,
 };
 
-const hardSkip = /^(?:\[편집\]|목차|개요|공채 전|공채 이전|특채|영입|코미디언|출처|최근|분류|상위 문서|이 기수|이 문서는|MBC의|SBS의|KBS의|개그콘서트|웃찾사|문서|기수로|기수이다|연도별|이후|[0-9]+\.|\|)/;
+const hardSkip = /^(?:\[편집\]|\[\d+\]|목차|개요|공채 전|공채 이전|특채|영입|코미디언|출처|최근|분류|상위 문서|이 기수|이 문서는|MBC의|SBS의|KBS의|개그콘서트|웃찾사|문서|기수로|기수이다|연도별|이후|[0-9]+\.|\|)/;
 const prose = /(이다\.?|한다\.?|했다\.?|있다\.?|된다\.?|보인다\.?|출연|활동|전업|이적|기수|공채|특채|배우|유튜브|개그콘서트|웃찾사|때문|현재|당시|이후)/;
 
 function cleanName(raw) {
@@ -30,9 +30,11 @@ function cleanName(raw) {
 
 function extract(broadcaster, file) {
   const lines = fs.readFileSync(file, "utf8").split(/\r?\n/).map((line) => line.trim());
+  const bodyStart = lines.findIndex((line, index) => line === "1. 개요" && lines[index + 1] === "[편집]");
+  const bodyLines = bodyStart >= 0 ? lines.slice(bodyStart) : lines;
   const roster = [];
   let current = null;
-  for (const line of lines) {
+  for (const line of bodyLines) {
     const match = patterns[broadcaster].exec(line);
     if (match) {
       const generation = Number(match[1] ?? 0);

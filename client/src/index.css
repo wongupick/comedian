@@ -211,8 +211,12 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .section-side-note span { color: #5a202a; }
 .detail-layout { display: grid; grid-template-columns: minmax(270px, 33%) 1fr; gap: 7.5vw; }
 .detail-lead { max-width: 370px; }
-.detail-photo-slot { aspect-ratio: 4 / 5; border: 1px dashed rgba(90, 32, 42, .5); background: #d8bdaf; position: relative; }
-.detail-photo-slot small { position: absolute; bottom: 18px; left: 0; right: 0; color: #8b625a; font-size: 9px; }
+.detail-photo-slot { aspect-ratio: 4 / 5; border: 1px dashed rgba(90, 32, 42, .5); background: #d8bdaf; position: relative; overflow: hidden; }
+.detail-photo-slot img { width: 100%; height: 100%; display: block; object-fit: cover; filter: saturate(.82) sepia(.08) contrast(.96); }
+.photo-fallback { height: 100%; display: grid; place-items: center; align-content: center; gap: 9px; color: #5a202a; text-align: center; font: 10px/1.5 "IBM Plex Mono", monospace; letter-spacing: .1em; white-space: pre-line; }
+.detail-photo-slot small { position: absolute; bottom: 18px; left: 0; right: 0; color: #8b625a; font-size: 9px; text-align: center; }
+.image-source { display: block; margin-top: 10px; color: #8b625a; font: 9px "IBM Plex Mono", monospace; letter-spacing: .08em; text-decoration: none; }
+.image-source:hover { color: #e65a4f; }
 .detail-lead-caption { display: flex; justify-content: space-between; margin-top: 18px; color: #826c61; font: 9px "IBM Plex Mono", monospace; letter-spacing: .08em; }
 .detail-content { padding-top: 4px; }
 .detail-title-row { display: flex; justify-content: space-between; align-items: start; padding-bottom: 25px; border-bottom: 1px solid rgba(23, 21, 21, .23); }

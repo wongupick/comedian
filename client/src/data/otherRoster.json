@@ -7,7 +7,12 @@
     "year": "2011",
     "name": "유병재",
     "role": "방송인 · 방송작가 · 코미디언",
-    "verificationNote": "2011년 싱글로 데뷔하고 tvN SNL 코리아에서 방송작가·출연자로 알려진 공개 프로필 기준"
+    "verificationNote": "2011년 싱글로 데뷔하고 tvN SNL 코리아에서 방송작가·출연자로 알려진 공개 프로필 기준",
+    "imageStatus": "matched",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/20171028_%EC%B2%AD%EC%B6%98%EC%95%84%EB%A0%88%EB%82%98_%EC%9C%A0%EB%B3%91%EC%9E%AC_%EB%B0%80%EC%B0%A9_%EA%B3%A0%EB%AF%BC%EC%83%81%EB%8B%B4_44s.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageSource": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%B3%91%EC%9E%AC",
+    "imageAlt": "유병재 프로필 이미지",
+    "imageTitle": "유병재"
   },
   {
     "id": "other-nam-chang-hee",
@@ -17,6 +22,10 @@
     "year": "2000",
     "name": "남창희",
     "role": "방송인 · 코미디언",
-    "verificationNote": "지상파 공채 개그맨이 아닌 비공채 출신으로 소개된 공개 프로필 기준"
+    "verificationNote": "지상파 공채 개그맨이 아닌 비공채 출신으로 소개된 공개 프로필 기준",
+    "imageStatus": "not-found",
+    "imageUrl": "",
+    "imageSource": "",
+    "imageAlt": "남창희 프로필 이미지"
   }
 ]

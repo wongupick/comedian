@@ -40,6 +40,9 @@ type Profile = {
   catchphrase: string;
   catchphraseNote: string;
   activities: { year: string; title: string; detail: string; state?: string }[];
+  imageUrl?: string;
+  imageSource?: string;
+  imageStatus?: "matched" | "not-found" | "error";
 };
 
 const broadcasters: { id: BroadcasterId; label: string; short: string }[] = [
@@ -69,6 +72,9 @@ const profiles: Profile[] = [...rosterData.records, ...otherRosterData].map((rec
   catchphrase: "대표 유행어 입력 슬롯",
   catchphraseNote: "방송에서 탄생한 대표 유행어와 캐릭터의 맥락을 기록해 주세요.",
   activities: defaultActivities(record.name, record.track),
+  imageUrl: "imageUrl" in record && typeof record.imageUrl === "string" ? record.imageUrl : "",
+  imageSource: "imageSource" in record && typeof record.imageSource === "string" ? record.imageSource : "",
+  imageStatus: "imageStatus" in record && (record.imageStatus === "matched" || record.imageStatus === "not-found" || record.imageStatus === "error") ? record.imageStatus : "not-found",
 }));
 
 const generations = Array.from({ length: 34 }, (_, index) => index + 1);
@@ -210,7 +216,9 @@ function EmptyArchive({ broadcaster, generation, onRequest }: { broadcaster: Bro
 }
 
 function ProfileDetail({ profile }: { profile: Profile }) {
-  return <div className="detail-layout"><div className="detail-lead"><div className="detail-photo-slot"><Mic2 size={52} /><span>PROFILE IMAGE<br />SOURCE SLOT</span><small>4 : 5 PORTRAIT</small></div><div className="detail-lead-caption"><span>FIG. 03</span><span>{profile.name.toUpperCase()} / DOSSIER</span></div></div><div className="detail-content"><div className="detail-title-row"><div><span className="generation-chip">{profile.broadcaster === "other" ? "ETC" : profile.broadcaster.toUpperCase()} · {profile.generation ? `${profile.track} ${profile.generation}기` : profile.track}{profile.year && ` / ${profile.year}`}</span><h3>{profile.name}</h3><p>{profile.role} / {profile.note}</p></div><span className="detail-id">ID: KCA-001</span></div><div className="catchphrase-box"><div className="box-label"><Sparkles size={14} /> CATCHPHRASE / 유행어 상세</div><h4>“{profile.catchphrase}”</h4><p>{profile.catchphraseNote}</p><div className="input-hint">+ 방송 장면, 사용 시기, 캐릭터 설명을 함께 입력할 수 있습니다.</div></div><div className="activity-header"><div><span className="box-label"><Clock3 size={14} /> ACTIVITY LOG</span><h4>활동내역</h4></div><span className="activity-count">{String(profile.activities.length).padStart(2, "0")} ENTRIES</span></div><div className="activity-list">{profile.activities.map((activity) => <div className="activity-item" key={activity.year}><span className="activity-number">{activity.year}</span><div><h5>{activity.title}</h5><p>{activity.detail}</p></div><span className="activity-state">{activity.state}</span></div>)}</div><div className="activity-image-slot"><div><Camera size={21} /><span>ACTIVITY IMAGE SLOT</span></div><p>활동내역별 방송 캡처·포스터·현장 이미지를<br />하단에 보존할 수 있도록 비워 둔 영역입니다.</p><button type="button" aria-label="활동내역 이미지 추가 슬롯" onClick={() => window.alert("활동내역 이미지를 연결할 수 있는 슬롯입니다.")}><Plus size={18} /></button></div></div></div>;
+  const [failedImage, setFailedImage] = useState<string | null>(null);
+  const imageUrl = profile.imageUrl && failedImage !== profile.imageUrl ? profile.imageUrl : "";
+  return <div className="detail-layout"><div className="detail-lead"><div className="detail-photo-slot">{imageUrl ? <img src={imageUrl} alt={`${profile.name} 프로필 이미지`} onError={() => setFailedImage(profile.imageUrl ?? "")} /> : <div className="photo-fallback"><Mic2 size={52} /><span>{profile.imageStatus === "matched" ? "IMAGE LOAD FAILED" : "PROFILE IMAGE\nSOURCE SLOT"}</span></div>}<small>{imageUrl ? "PUBLIC PROFILE IMAGE" : "4 : 5 PORTRAIT"}</small></div>{profile.imageSource && imageUrl && <a className="image-source" href={profile.imageSource} target="_blank" rel="noreferrer">IMAGE SOURCE ↗</a>}<div className="detail-lead-caption"><span>FIG. 03</span><span>{profile.name.toUpperCase()} / DOSSIER</span></div></div><div className="detail-content"><div className="detail-title-row"><div><span className="generation-chip">{profile.broadcaster === "other" ? "ETC" : profile.broadcaster.toUpperCase()} · {profile.generation ? `${profile.track} ${profile.generation}기` : profile.track}{profile.year && ` / ${profile.year}`}</span><h3>{profile.name}</h3><p>{profile.role} / {profile.note}</p></div><span className="detail-id">ID: KCA-001</span></div><div className="catchphrase-box"><div className="box-label"><Sparkles size={14} /> CATCHPHRASE / 유행어 상세</div><h4>“{profile.catchphrase}”</h4><p>{profile.catchphraseNote}</p><div className="input-hint">+ 방송 장면, 사용 시기, 캐릭터 설명을 함께 입력할 수 있습니다.</div></div><div className="activity-header"><div><span className="box-label"><Clock3 size={14} /> ACTIVITY LOG</span><h4>활동내역</h4></div><span className="activity-count">{String(profile.activities.length).padStart(2, "0")} ENTRIES</span></div><div className="activity-list">{profile.activities.map((activity) => <div className="activity-item" key={activity.year}><span className="activity-number">{activity.year}</span><div><h5>{activity.title}</h5><p>{activity.detail}</p></div><span className="activity-state">{activity.state}</span></div>)}</div><div className="activity-image-slot"><div><Camera size={21} /><span>ACTIVITY IMAGE SLOT</span></div><p>활동내역별 방송 캡처·포스터·현장 이미지를<br />하단에 보존할 수 있도록 비워 둔 영역입니다.</p><button type="button" aria-label="활동내역 이미지 추가 슬롯" onClick={() => window.alert("활동내역 이미지를 연결할 수 있는 슬롯입니다.")}><Plus size={18} /></button></div></div></div>;
 }
 
 function DetailEmpty() {
