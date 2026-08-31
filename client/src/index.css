@@ -97,6 +97,9 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .main-nav span { color: #e65a4f; font-size: 9px; margin-left: 4px; vertical-align: top; }
 .header-status { display: flex; align-items: center; gap: 7px; color: #5a202a; font-family: "IBM Plex Mono", monospace; font-size: 9px; letter-spacing: .08em; white-space: nowrap; }
 .mobile-menu-button { display: none; background: transparent; color: #171515; }
+.back-to-top { position: fixed; right: 28px; bottom: 28px; z-index: 50; width: 56px; height: 56px; display: grid; place-items: center; align-content: center; gap: 2px; border: 1px solid #5a202a; border-radius: 50%; background: #f4ede2; color: #5a202a; box-shadow: 0 8px 24px rgba(23, 21, 21, .18); font: 8px/1 "IBM Plex Mono", monospace; letter-spacing: .1em; transition: transform 180ms cubic-bezier(.23, 1, .32, 1), background 180ms ease-out, color 180ms ease-out, box-shadow 180ms ease-out; }
+.back-to-top:hover { transform: translateY(-4px); background: #5a202a; color: #f4ede2; box-shadow: 0 12px 28px rgba(90, 32, 42, .24); }
+.back-to-top:active { transform: scale(.97); }
 
 .hero-section { min-height: 650px; background-size: cover; background-position: center; position: relative; color: #f8f0e4; isolation: isolate; }
 .hero-wash { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(23, 15, 15, .93) 0%, rgba(30, 19, 19, .7) 47%, rgba(32, 19, 21, .04) 100%); z-index: -1; }
@@ -330,7 +333,9 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
   .hero-caption { left: 5vw; right: 5vw; font-size: 8px; }
   .hero-caption span:last-child { display: none; }
   .hero-stamp { right: 7vw; bottom: 67px; width: 56px; height: 56px; font-size: 9px; }
-  .broadcast-list { grid-template-columns: repeat(2, 1fr); }
+  .broadcast-list { display: flex; grid-template-columns: none; gap: 8px; overflow-x: auto; padding: 7px 0 10px; margin-right: -5vw; scrollbar-width: thin; scrollbar-color: rgba(247, 238, 225, .5) transparent; }
+  .broadcast-tab { flex: 0 0 136px; min-height: 78px; padding: 13px 12px; }
+  .broadcast-tab:hover, .broadcast-tab.active { padding-left: 16px; }
   .archive-intro { display: block; }
   .archive-search { width: 100%; margin-top: 25px; }
   .profile-results-grid { grid-template-columns: 1fr; }
@@ -372,6 +377,7 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
   .outline-button { margin-top: 29px; }
   .site-footer { display: block; padding: 25px 6vw; }
   .footer-meta { justify-content: space-between; margin-top: 24px; }
+  .back-to-top { right: 16px; bottom: 16px; width: 49px; height: 49px; }
   .notice { right: 15px; left: 15px; bottom: 15px; }
 }
 

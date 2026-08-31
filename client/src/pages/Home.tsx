@@ -1,10 +1,11 @@
 /* 방송 아카이브 뮤지엄: 왼쪽 색인 레일과 오른쪽 큐레이션 캔버스, 종이·커튼·녹화등의 대비를 유지한다. */
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import rosterData from "../data/roster.json";
 import otherRosterData from "../data/otherRoster.json";
 import {
   Archive,
   ArrowDown,
+  ArrowUp,
   ArrowUpRight,
   Camera,
   ChevronRight,
@@ -91,6 +92,14 @@ export default function Home() {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [videoPlaying, setVideoPlaying] = useState(false);
   const [notice, setNotice] = useState("");
+  const [showTopButton, setShowTopButton] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => setShowTopButton(window.scrollY > 560);
+    handleScroll();
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
 
   const selectedProfiles = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
@@ -115,6 +124,10 @@ export default function Home() {
   function showNotice(message: string) {
     setNotice(message);
     window.setTimeout(() => setNotice(""), 2600);
+  }
+
+  function scrollToTop() {
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   return (
@@ -202,6 +215,7 @@ export default function Home() {
       </main>
 
       <footer className="site-footer"><div className="footer-brand"><span className="brand-seal footer-seal"><img src={MARK_IMAGE} alt="" className="brand-mark" /><Mic2 size={11} /></span><span>K-COMEDY ARCHIVE</span></div><p>한국 코미디의 순간을 기수와 장면으로 기록합니다.</p><div className="footer-meta"><span>BUILT FOR THE NEXT LAUGH</span><span>© 2026 K-CA</span></div></footer>
+      {showTopButton && <button className="back-to-top" type="button" aria-label="페이지 맨 위로 이동" title="맨 위로" onClick={scrollToTop}><ArrowUp size={16} /><span>TOP</span></button>}
       {notice && <div className="notice" role="status"><Sparkles size={15} /> {notice}</div>}
     </div>
   );
