@@ -1,0 +1,15 @@
+{
+  "inputRecords": 625,
+  "cleanedUniqueRecords": 567,
+  "droppedRecords": 48,
+  "duplicateMerged": 10,
+  "byBroadcaster": {
+    "sbs": 229,
+    "kbs": 171,
+    "mbc": 165,
+    "other": 2
+  },
+  "matchedImages": 37,
+  "placeholders": 530,
+  "needsReview": 567
+}

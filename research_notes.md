@@ -51,3 +51,13 @@ SBS 명단에는 타 방송사에서 재데뷔하거나 주력 활동한 인물�
 ## 재추출·최종 이미지 상태
 
 원문 목차가 실제 명단으로 섞이지 않도록 본문 시작점 이후만 읽는 방식으로 명단을 재추출했다. 그 결과 SBS 249명, KBS 185명, MBC 189명 등 623개 레코드가 남았고, 한국어 위키백과 및 Wikimedia Commons에서 인물명이 정확히 일치하는 이미지 37개를 확인했다. 나머지는 사진을 잘못 대입하지 않기 위해 대체 SOURCE SLOT을 유지한다. 네팔·돌리 파튼처럼 동명이인 가능성이 높거나 코미디언 문서가 아닌 항목은 이미지 매칭에서 제거했다.
+
+## 공개 조사 착수
+
+첨부된 pasted_content.txt는 인물 원본이 아니라 REVU Search 참고용 UI/UX 지시서이므로, 데이터는 공개 웹 자료로 직접 구축한다. KBS 공식 뉴스는 KBS 공채가 1982년 KBS 개그 콘테스트로 시작했으며 유재석·박수홍·유세윤·장동민·박나래·장도연 등을 KBS 공채 출신 사례로 소개한다: https://news.kbs.co.kr/news/view.do?ncd=8154064. SBS 공식 웃찾사 페이지는 동적 콘텐츠가 많아 정적 본문에서 인물 명단이 충분히 추출되지 않았지만, 프로그램 공식 출처로 보존한다: https://programs.sbs.co.kr/enter/smilepeople/main. 기존 roster는 625개 레코드이나 이름 중복·목차 오염이 있어 정제와 이름 기준 병합이 필요하다.
+
+## 통합 DB 구축 결과
+
+공개 목록에서 이름이 실제 인물로 보이는 한국어 이름만 남기고 문서 저작권 문구·외국어·동명이인 위험이 큰 비인물 문구를 제거했다. 기존 625개 레코드에서 567개 고유 인물 레코드를 생성했으며, 10개 레코드는 이름 기준으로 병합하고 48개 문서 오염 레코드는 제외했다. 방송사별 현재 통합 분포는 SBS 229명, KBS 171명, MBC 165명, 기타 2명이다. 기존에 확인된 정확 매칭 이미지 37개는 유지하고 530명은 placeholder로 둔다. 통합 JSON은 client/src/data/comedians.json이며, 인물별 gender, birthDate, debutYear, agency, programs, introduction, youtube, instagram, imageUrl, imageSource, sourceUrls, chosung, affiliations 필드를 포함한다. 미리보기에서 전체 567명, 성별·초성·데뷔연도·정렬 select와 검색창이 렌더링되는 것을 확인했다.
+
+공식 출처로는 KBS 뉴스(https://news.kbs.co.kr/news/view.do?ncd=8154064), SBS 웃찾사 프로그램(https://programs.sbs.co.kr/enter/smilepeople/main), MBC iMBC 출연개그맨(https://program.imbc.com/Cast/1000370100000100000)을 사용해 방송사·프로그램 맥락을 확인했고, 기수 원문 목록은 방송사별 공개 목록 URL을 보조 출처로 보존했다.
