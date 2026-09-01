@@ -61,3 +61,7 @@ SBS 명단에는 타 방송사에서 재데뷔하거나 주력 활동한 인물�
 공개 목록에서 이름이 실제 인물로 보이는 한국어 이름만 남기고 문서 저작권 문구·외국어·동명이인 위험이 큰 비인물 문구를 제거했다. 기존 625개 레코드에서 567개 고유 인물 레코드를 생성했으며, 10개 레코드는 이름 기준으로 병합하고 48개 문서 오염 레코드는 제외했다. 방송사별 현재 통합 분포는 SBS 229명, KBS 171명, MBC 165명, 기타 2명이다. 기존에 확인된 정확 매칭 이미지 37개는 유지하고 530명은 placeholder로 둔다. 통합 JSON은 client/src/data/comedians.json이며, 인물별 gender, birthDate, debutYear, agency, programs, introduction, youtube, instagram, imageUrl, imageSource, sourceUrls, chosung, affiliations 필드를 포함한다. 미리보기에서 전체 567명, 성별·초성·데뷔연도·정렬 select와 검색창이 렌더링되는 것을 확인했다.
 
 공식 출처로는 KBS 뉴스(https://news.kbs.co.kr/news/view.do?ncd=8154064), SBS 웃찾사 프로그램(https://programs.sbs.co.kr/enter/smilepeople/main), MBC iMBC 출연개그맨(https://program.imbc.com/Cast/1000370100000100000)을 사용해 방송사·프로그램 맥락을 확인했고, 기수 원문 목록은 방송사별 공개 목록 URL을 보조 출처로 보존했다.
+
+## 추가 첨부자료 반영
+
+추가 첨부자료는 인물 원본 명단이 아니라 REVU Search를 참고한 검색 플랫폼 UX/성능 요구사항 문서였다. 이를 데이터 비교의 원본으로 사용하지 않고, 기존 통합 DB의 구조와 화면에 검색·필터·카드·상세·모바일 규칙을 반영했다. 판매·섭외·문의·광고·가격 관련 CTA는 추가하지 않았다. 결과 목록은 초기 24개만 렌더링하고 더보기로 24개씩 확장하며 카드 이미지는 lazy loading을 사용한다. 콘솔 로그에서 error/exception/failed 항목과 네트워크 4xx/5xx 항목은 발견되지 않았다. 390px 2열 모바일과 1440px 데스크톱 캡처에서 결과 카드와 상세 영역을 확인했다.

@@ -87,6 +87,20 @@ for (const record of input) {
   }
 }
 const records = [...byName.values()].sort((a, b) => a.name.localeCompare(b.name, "ko"));
+const usedImages = new Map();
+for (const record of records) {
+  if (record.imageStatus === "matched" && record.imageUrl) {
+    const prior = usedImages.get(record.imageUrl);
+    if (prior) {
+      record.imageUrl = null;
+      record.imageSource = null;
+      record.imageStatus = "placeholder";
+      record.verificationNote = `프로필 이미지가 ${prior}와 중복되어 정확성 보호를 위해 placeholder를 사용합니다.`;
+    } else {
+      usedImages.set(record.imageUrl, record.name);
+    }
+  }
+}
 const stats = {
   inputRecords: input.length,
   cleanedUniqueRecords: records.length,

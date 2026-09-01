@@ -183,6 +183,9 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .profile-results-grid .tag-row span { padding: 4px 5px; font-size: 8px; }
 .profile-results-grid .profile-card-copy .text-arrow-button { margin-top: 17px; font-size: 10px; }
 .results-more { margin: 19px 0 0; color: #8c7469; font-size: 11px; }
+.load-more-button { display: flex; align-items: center; justify-content: center; gap: 12px; width: 100%; margin-top: 18px; padding: 14px 18px; border: 1px solid rgba(90, 32, 42, .24); border-radius: 999px; background: #f7eee1; color: #5a202a; font: 10px "IBM Plex Mono", monospace; letter-spacing: .08em; transition: background 160ms ease-out, color 160ms ease-out, transform 160ms ease-out; }
+.load-more-button span { color: #9a8175; }
+.load-more-button:hover { background: #5a202a; color: #f8f0e4; transform: translateY(-1px); }
 .empty-archive { display: flex; align-items: flex-start; gap: 24px; min-height: 300px; padding: 52px 42px; border: 1px dashed rgba(90, 32, 42, .36); background: rgba(255, 255, 255, .18); position: relative; }
 .empty-file-icon { width: 51px; height: 63px; display: grid; place-items: center; border: 1px solid #c4a99a; color: #a98b7e; }
 .empty-archive h3 { margin: 17px 0 12px; font: 500 30px "Bodoni Moda", serif; letter-spacing: -.04em; }
@@ -359,10 +362,13 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
   .filter-row { gap: 7px; margin-top: 20px; overflow-x: auto; flex-wrap: nowrap; padding-bottom: 15px; }
   .filter-row label { flex: 0 0 auto; }
   .filter-row select { min-width: 105px; }
-  .profile-results-grid { grid-template-columns: 1fr; }
-  .profile-results-grid .profile-card { grid-template-columns: 1fr; }
+  .profile-results-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .profile-results-grid .profile-card { grid-template-columns: 1fr; min-height: 0; }
   .profile-card { grid-template-columns: 1fr; }
-  .profile-card-visual { min-height: 230px; }
+  .profile-card-visual { min-height: 185px; }
+  .profile-results-grid .profile-card-visual { min-height: 155px; }
+  .profile-results-grid .profile-card-copy { padding: 16px 13px 15px; }
+  .profile-results-grid .profile-card-top h3 { font-size: 26px; }
   .portrait-slot { margin-right: 32px; }
   .profile-card-copy { padding: 29px 25px 28px; min-height: 295px; }
   .profile-card-top h3 { font-size: 42px; }

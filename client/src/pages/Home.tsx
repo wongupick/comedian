@@ -130,6 +130,7 @@ export default function Home() {
   const [videoPlaying, setVideoPlaying] = useState(false);
   const [notice, setNotice] = useState("");
   const [showTopButton, setShowTopButton] = useState(false);
+  const [visibleCount, setVisibleCount] = useState(24);
 
   useEffect(() => {
     const handleScroll = () => setShowTopButton(window.scrollY > 560);
@@ -151,6 +152,11 @@ export default function Home() {
     }).sort((a, b) => sortOrder === "debut" ? (Number(a.recruitmentYear) || 9999) - (Number(b.recruitmentYear) || 9999) : a.name.localeCompare(b.name, "ko"));
   }, [broadcaster, generation, query, genderFilter, initialFilter, debutFilter, sortOrder]);
 
+  useEffect(() => {
+    setVisibleCount(24);
+  }, [broadcaster, generation, query, genderFilter, initialFilter, debutFilter, sortOrder]);
+
+  const visibleProfiles = selectedProfiles.slice(0, visibleCount);
   const activeProfile = selectedProfiles.find((profile) => profile.id === selectedProfileId) ?? selectedProfiles[0];
   const activeBroadcaster = broadcasters.find((item) => item.id === broadcaster) ?? broadcasters[0];
 
@@ -234,7 +240,7 @@ export default function Home() {
               <label>데뷔연도<select value={debutFilter} onChange={(event) => setDebutFilter(event.target.value)}><option value="all">전체 연도</option>{debutOptions.map((item) => <option key={item} value={item}>{item}</option>)}</select></label>
               <label>정렬<select value={sortOrder} onChange={(event) => setSortOrder(event.target.value)}><option value="name">가나다순</option><option value="debut">데뷔연도순</option></select></label>
             </div>
-            {selectedProfiles.length > 0 ? <div className="profile-results"><div className="results-meta"><span>{selectedProfiles.length} RECORDS FOUND</span><span>SELECT A DOSSIER TO OPEN</span></div><div className="profile-results-grid">{selectedProfiles.map((profile) => <ProfileCard key={profile.id} profile={profile} onOpen={() => { setSelectedProfileId(profile.id); scrollToId("profile"); }} />)}</div></div> : <EmptyArchive broadcaster={broadcaster} generation={generation} onRequest={() => showNotice("이 기수는 자료 입력을 기다리고 있습니다.")} />}
+            {selectedProfiles.length > 0 ? <div className="profile-results"><div className="results-meta"><span>{selectedProfiles.length} RECORDS FOUND</span><span>SELECT A DOSSIER TO OPEN</span></div><div className="profile-results-grid">{visibleProfiles.map((profile) => <ProfileCard key={profile.id} profile={profile} onOpen={() => { setSelectedProfileId(profile.id); scrollToId("profile"); }} />)}</div>{visibleCount < selectedProfiles.length && <button className="load-more-button" type="button" onClick={() => setVisibleCount((count) => count + 24)}>더보기 <span>{Math.min(visibleCount + 24, selectedProfiles.length)} / {selectedProfiles.length}</span></button>}</div> : <EmptyArchive broadcaster={broadcaster} generation={generation} onRequest={() => showNotice("이 기수는 자료 입력을 기다리고 있습니다.")} />}
           </div>
         </section>
 
