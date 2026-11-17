@@ -2,18 +2,18 @@
   "generatedAt": "2026-11-17T07:19:48.463Z",
   "stats": {
     "inputRecords": 625,
-    "cleanedUniqueRecords": 809,
-    "droppedRecords": 60,
+    "cleanedUniqueRecords": 807,
+    "droppedRecords": 62,
     "duplicateMerged": 10,
     "byBroadcaster": {
-      "sbs": 289,
+      "sbs": 288,
       "kbs": 322,
-      "mbc": 196,
+      "mbc": 195,
       "other": 2
     },
     "matchedImages": 258,
-    "placeholders": 551,
-    "needsReview": 809,
+    "placeholders": 549,
+    "needsReview": 807,
     "sourceListAudit": {
       "sourceUrls": [
         "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
@@ -97,7 +97,11 @@
       "removedCount": 8,
       "pdfImagesKept": "face-visible human portraits; group images with clear target face retained; KBS 김가은·손유담 remained placeholder",
       "auditedAt": "2026-11-17"
-    }
+    },
+    "approvedNonPersonRemovals": [
+      "공각기동대",
+      "민족볼셰비즘"
+    ]
   },
   "records": [
     {
@@ -660,44 +664,6 @@
           "track": "공채",
           "generation": 9,
           "recruitmentYear": "1998",
-          "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
-        }
-      ]
-    },
-    {
-      "id": "comedian-공각기동대",
-      "name": "공각기동대",
-      "aliases": [
-        "공각기동대(극장판)"
-      ],
-      "gender": null,
-      "birthDate": null,
-      "debutYear": null,
-      "broadcaster": "mbc",
-      "generation": 20,
-      "track": "공채",
-      "recruitmentYear": "2013",
-      "agency": null,
-      "programs": [],
-      "introduction": null,
-      "youtube": null,
-      "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
-      "sourceUrls": [
-        "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
-      ],
-      "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
-      "chosung": "ㄱㄱㄱㄷㄷ",
-      "affiliations": [
-        {
-          "broadcaster": "mbc",
-          "track": "공채",
-          "generation": 20,
-          "recruitmentYear": "2013",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
         }
       ]
@@ -6826,44 +6792,6 @@
           "track": "공채",
           "generation": 8,
           "recruitmentYear": "2004",
-          "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
-        }
-      ]
-    },
-    {
-      "id": "comedian-민족볼셰비즘",
-      "name": "민족볼셰비즘",
-      "aliases": [
-        "민족 볼셰비즘"
-      ],
-      "gender": null,
-      "birthDate": null,
-      "debutYear": null,
-      "broadcaster": "sbs",
-      "generation": 16,
-      "track": "공채",
-      "recruitmentYear": "2016",
-      "agency": null,
-      "programs": [],
-      "introduction": null,
-      "youtube": null,
-      "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
-      "sourceUrls": [
-        "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
-      ],
-      "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
-      "chosung": "ㅁㅈㅂㅅㅂㅈ",
-      "affiliations": [
-        {
-          "broadcaster": "sbs",
-          "track": "공채",
-          "generation": 16,
-          "recruitmentYear": "2016",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
         }
       ]
