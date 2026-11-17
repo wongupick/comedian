@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-17T07:15:58.203Z",
+  "generatedAt": "2026-11-17T07:19:48.463Z",
   "stats": {
     "inputRecords": 625,
-    "cleanedUniqueRecords": 785,
-    "droppedRecords": 59,
+    "cleanedUniqueRecords": 809,
+    "droppedRecords": 60,
     "duplicateMerged": 10,
     "byBroadcaster": {
       "sbs": 289,
       "kbs": 322,
-      "mbc": 172,
+      "mbc": 196,
       "other": 2
     },
-    "matchedImages": 218,
-    "placeholders": 567,
-    "needsReview": 785,
+    "matchedImages": 266,
+    "placeholders": 543,
+    "needsReview": 809,
     "sourceListAudit": {
       "sourceUrls": [
         "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
@@ -62,6 +62,25 @@
       "sourceListUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
       "unmatchedPdfNames": [],
       "verifiedAt": "2026-11-17"
+    },
+    "mbcPdfAudit": {
+      "pdfPhotoMappings": 54,
+      "updatedRecords": 29,
+      "newRecords": 25,
+      "skippedExcluded": [
+        "권영기",
+        "김두영",
+        "이명훈",
+        "이원승"
+      ],
+      "source": "MBC.pdf · 2026-11-17",
+      "sourceListUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+      "unmatchedPdfNames": [],
+      "verifiedAt": "2026-11-17",
+      "excludedExistingRecords": [
+        "김주연"
+      ],
+      "excludedReason": "MBC.pdf 본문 제외: 연예계 은퇴·무속인 전향"
     }
   },
   "records": [
@@ -2590,15 +2609,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P005_c7d9ea6d.jpg",
+      "imageSource": "https://www.xportsnews.com/article/1999004",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.xportsnews.com/article/1999004"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅂㅎ",
       "affiliations": [
         {
@@ -2607,6 +2627,13 @@
           "generation": 1,
           "recruitmentYear": "1981",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -3443,15 +3470,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P048_08355f23.jpg",
+      "imageSource": "https://star.ohmynews.com/NWS_Web/OhmyStar/img_pg.aspx?CNTN_CD=IE001613760",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://star.ohmynews.com/NWS_Web/OhmyStar/img_pg.aspx?CNTN_CD=IE001613760"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅇㄱ",
       "affiliations": [
         {
@@ -3460,6 +3488,13 @@
           "generation": 14,
           "recruitmentYear": "2004",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -4290,42 +4325,6 @@
       ]
     },
     {
-      "id": "comedian-김주연",
-      "name": "김주연",
-      "aliases": [],
-      "gender": null,
-      "birthDate": null,
-      "debutYear": null,
-      "broadcaster": "mbc",
-      "generation": 15,
-      "track": "공채",
-      "recruitmentYear": "2006",
-      "agency": null,
-      "programs": [],
-      "introduction": null,
-      "youtube": null,
-      "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
-      "sourceUrls": [
-        "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
-      ],
-      "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
-      "chosung": "ㄱㅈㅇ",
-      "affiliations": [
-        {
-          "broadcaster": "mbc",
-          "track": "공채",
-          "generation": 15,
-          "recruitmentYear": "2006",
-          "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
-        }
-      ]
-    },
-    {
       "id": "comedian-김준현",
       "name": "김준현",
       "aliases": [],
@@ -4805,15 +4804,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P011_ff947e02.jpg",
+      "imageSource": "https://www.imaeil.com/page/view/2019111909444826508",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.imaeil.com/page/view/2019111909444826508"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅊㅈ",
       "affiliations": [
         {
@@ -4822,6 +4822,13 @@
           "generation": 2,
           "recruitmentYear": "1982",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -4841,15 +4848,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P031_99f61f4b.jpg",
+      "imageSource": "https://v.daum.net/v/20260421144946260",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://v.daum.net/v/20260421144946260"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅌㄱ",
       "affiliations": [
         {
@@ -4858,6 +4866,13 @@
           "generation": 5,
           "recruitmentYear": "1994",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -4959,15 +4974,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P027_53a4dcbe.jpg",
+      "imageSource": "https://news.nate.com/view/20080406n05451",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://news.nate.com/view/20080406n05451"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅎㄷ",
       "affiliations": [
         {
@@ -4976,6 +4992,13 @@
           "generation": 4,
           "recruitmentYear": "1993",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -5067,15 +5090,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P022_91ab3f23.jpg",
+      "imageSource": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002784517",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002784517"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅎㅅ",
       "affiliations": [
         {
@@ -5084,6 +5108,13 @@
           "generation": 3,
           "recruitmentYear": "1989~1992",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -6188,15 +6219,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P035_bd7197bf.jpg",
+      "imageSource": "https://www.ehyundai.com/newCulture/CT/CT010100_V.do?crsSqNo=22496&sqCd=046&stCd=480",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.ehyundai.com/newCulture/CT/CT010100_V.do?crsSqNo=22496&sqCd=046&stCd=480"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄴㅈㄹ",
       "affiliations": [
         {
@@ -6205,6 +6237,13 @@
           "generation": 7,
           "recruitmentYear": "1996",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -6343,15 +6382,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P041_7dcfe2bc.jpg",
+      "imageSource": "https://v.daum.net/v/20250825160944421",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://v.daum.net/v/20250825160944421"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄹㅇㄱ",
       "affiliations": [
         {
@@ -6360,6 +6400,13 @@
           "generation": 10,
           "recruitmentYear": "1999",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -6703,15 +6750,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P039_7c256ec8.jpg",
+      "imageSource": "https://www.imaeil.com/page/view/2018112709460054300",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.imaeil.com/page/view/2018112709460054300"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅁㅊㅅ",
       "affiliations": [
         {
@@ -6720,6 +6768,13 @@
           "generation": 10,
           "recruitmentYear": "1999",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -7085,15 +7140,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Park_Myeong-su_from_Acrofan.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EB%B0%95%EB%AA%85%EC%88%98",
+      "imageUrl": "/manus-storage/P026_74c28ae9.jpg",
+      "imageSource": "https://www.artsro.com/right/enter_view.html?CatNo=85&GoIdx=819",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.artsro.com/right/enter_view.html?CatNo=85&GoIdx=819"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅂㅁㅅ",
       "affiliations": [
         {
@@ -7102,6 +7158,13 @@
           "generation": 4,
           "recruitmentYear": "1993",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -7123,15 +7186,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Park_Mi_Seon.jpg/960px-Park_Mi_Seon.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EB%B0%95%EB%AF%B8%EC%84%A0",
+      "imageUrl": "/manus-storage/P017_bfb4dd88.jpg",
+      "imageSource": "https://www.mk.co.kr/en/culture/11969845",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.mk.co.kr/en/culture/11969845"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅂㅁㅅ",
       "affiliations": [
         {
@@ -7140,6 +7204,13 @@
           "generation": 2,
           "recruitmentYear": "1988",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -8461,15 +8532,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P012_52c277dd.jpg",
+      "imageSource": "https://www.sportsworldi.com/newsView/20120406002828",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.sportsworldi.com/newsView/20120406002828"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅂㅇㅁ",
       "affiliations": [
         {
@@ -8485,6 +8557,13 @@
           "generation": 3,
           "recruitmentYear": "1983",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -8794,15 +8873,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P024_8d096daa.jpg",
+      "imageSource": "https://enter.etoday.co.kr/news/view/128133",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://enter.etoday.co.kr/news/view/128133"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅅㄱㅅ",
       "affiliations": [
         {
@@ -8811,6 +8891,13 @@
           "generation": 4,
           "recruitmentYear": "1993",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -8868,15 +8955,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P018_d3d9d832.jpg",
+      "imageSource": "https://news.nate.com/view/20260326n04204",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://news.nate.com/view/20260326n04204"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅅㅅㅁ",
       "affiliations": [
         {
@@ -8885,6 +8973,13 @@
           "generation": 3,
           "recruitmentYear": "1989~1992",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -12410,15 +12505,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/191025_%EC%9D%B4%EA%B2%BD%EA%B7%9C_%284%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EA%B2%BD%EA%B7%9C",
+      "imageUrl": "/manus-storage/P006_89169be6.jpg",
+      "imageSource": "https://v.daum.net/v/YaQFnVNfti",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://v.daum.net/v/YaQFnVNfti"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㄱㄱ",
       "affiliations": [
         {
@@ -12427,6 +12523,13 @@
           "generation": 1,
           "recruitmentYear": "1981",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -12484,15 +12587,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/%EC%9D%B4%EA%B2%BD%EC%8B%A4_%EC%BB%AC%ED%88%AC%EC%87%BC.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EA%B2%BD%EC%8B%A4",
+      "imageUrl": "/manus-storage/P014_d163ba49.jpg",
+      "imageSource": "https://www.chosun.com/entertainments/broadcast/2025/12/29/MUYWGYRZGNSTSMBZHE4WEMLFME/",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.chosun.com/entertainments/broadcast/2025/12/29/MUYWGYRZGNSTSMBZHE4WEMLFME/"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㄱㅅ",
       "affiliations": [
         {
@@ -12501,6 +12605,13 @@
           "generation": 1,
           "recruitmentYear": "1987",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -12592,15 +12703,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P050_317ec2a1.jpg",
+      "imageSource": "https://tvreport.co.kr/star/article/279573/",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://tvreport.co.kr/star/article/279573/"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㄱㅈ",
       "affiliations": [
         {
@@ -12609,6 +12721,13 @@
           "generation": 15,
           "recruitmentYear": "2006",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -13856,15 +13975,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/191025_%EC%9D%B4%EC%98%81%EC%9E%90.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%98%81%EC%9E%90",
+      "imageUrl": "/manus-storage/P020_b79396e7.jpg",
+      "imageSource": "https://www.chosun.com/culture-life/broadcast-media/2021/05/03/SCFWFUM52VFUNANUQDBQUYALPA/",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.chosun.com/culture-life/broadcast-media/2021/05/03/SCFWFUM52VFUNANUQDBQUYALPA/"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅇㅈ",
       "affiliations": [
         {
@@ -13873,6 +13993,13 @@
           "generation": 3,
           "recruitmentYear": "1989~1992",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -13974,15 +14101,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P001_7d981957.jpg",
+      "imageSource": "https://www.osen.co.kr/article/G1112461459",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.osen.co.kr/article/G1112461459"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅇㅅ",
       "affiliations": [
         {
@@ -13991,6 +14119,13 @@
           "generation": 1,
           "recruitmentYear": "1975",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -14092,15 +14227,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P025_8877fef5.jpg",
+      "imageSource": "https://www.xportsnews.com/article/2136493",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.xportsnews.com/article/2136493"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅇㅅ",
       "affiliations": [
         {
@@ -14109,6 +14245,13 @@
           "generation": 4,
           "recruitmentYear": "1993",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -15480,15 +15623,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P021_e22108b5.jpg",
+      "imageSource": "https://m.seoul.co.kr/news/life/pop-culture/2025/08/22/20250822500122",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://m.seoul.co.kr/news/life/pop-culture/2025/08/22/20250822500122"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅎㅈ",
       "affiliations": [
         {
@@ -15497,6 +15641,13 @@
           "generation": 3,
           "recruitmentYear": "1989~1992",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -16900,15 +17051,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P037_db312db9.jpg",
+      "imageSource": "https://www.ranker.com/list/famous-comedians-from-south-korea/reference",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.ranker.com/list/famous-comedians-from-south-korea/reference"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅈㅅㅎ",
       "affiliations": [
         {
@@ -16917,6 +17069,13 @@
           "generation": 9,
           "recruitmentYear": "1998",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -17118,15 +17277,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P016_dbfa79e9.jpg",
+      "imageSource": "https://www.kmib.co.kr/article/view.asp?arcid=0013403665",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.kmib.co.kr/article/view.asp?arcid=0013403665"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅈㅈㅇ",
       "affiliations": [
         {
@@ -17135,6 +17295,13 @@
           "generation": 1,
           "recruitmentYear": "1987",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -17338,15 +17505,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P030_e9dc047b.jpg",
+      "imageSource": "https://www.fnnews.com/news/202311011508487792",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.fnnews.com/news/202311011508487792"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅈㅊㅇ",
       "affiliations": [
         {
@@ -17355,6 +17523,13 @@
           "generation": 5,
           "recruitmentYear": "1994",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -18856,15 +19031,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P008_da6b51d5.jpg",
+      "imageSource": "https://g.welbinginfo.com/115",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://g.welbinginfo.com/115"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅊㅂㅅ",
       "affiliations": [
         {
@@ -18873,6 +19049,13 @@
           "generation": 2,
           "recruitmentYear": "1982",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -19398,15 +19581,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P015_0a72a16a.jpg",
+      "imageSource": "https://v.daum.net/v/20260220072325583",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://v.daum.net/v/20260220072325583"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅊㅎㄹ",
       "affiliations": [
         {
@@ -19415,6 +19599,13 @@
           "generation": 1,
           "recruitmentYear": "1987",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -19628,15 +19819,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P028_1f535fa4.jpg",
+      "imageSource": "https://v.daum.net/v/JJNA3h8iWr?f=p",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://v.daum.net/v/JJNA3h8iWr?f=p"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅍㅇㅎ",
       "affiliations": [
         {
@@ -19645,6 +19837,13 @@
           "generation": 4,
           "recruitmentYear": "1993",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -20908,15 +21107,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P009_8b887421.jpg",
+      "imageSource": "https://www.kmib.co.kr/article/view.asp?arcid=0011613332",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.kmib.co.kr/article/view.asp?arcid=0011613332"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅎㄱㅅ",
       "affiliations": [
         {
@@ -20925,6 +21125,13 @@
           "generation": 2,
           "recruitmentYear": "1982",
           "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
+        },
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     },
@@ -29893,6 +30100,906 @@
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-배연정",
+      "name": "배연정",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P002_c6547e90.jpg",
+      "imageSource": "https://www.newsen.com/news_view.php?code=100100&uid=202406210604332110",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.newsen.com/news_view.php?code=100100&uid=202406210604332110"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅂㅇㅈ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-배일집",
+      "name": "배일집",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P003_1a6d6ceb.jpg",
+      "imageSource": "https://www.newsen.com/news_view.php?code=100100&uid=202602021732210310",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.newsen.com/news_view.php?code=100100&uid=202602021732210310"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅂㅇㅈ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-이홍렬",
+      "name": "이홍렬",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P004_fd25f2e2.jpg",
+      "imageSource": "https://enews.imbc.com/News/RetrieveNewsInfo/524197",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://enews.imbc.com/News/RetrieveNewsInfo/524197"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅇㅎㄹ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김정렬",
+      "name": "김정렬",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P007_d57f0b3c.jpg",
+      "imageSource": "https://enter.etoday.co.kr/news/view/192090",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://enter.etoday.co.kr/news/view/192090"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅈㄹ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-노유정",
+      "name": "노유정",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P013_aa8ed296.jpg",
+      "imageSource": "https://v.daum.net/v/20081125205918037",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://v.daum.net/v/20081125205918037"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄴㅇㅈ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-정진수",
+      "name": "정진수",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P019_953099d5.jpg",
+      "imageSource": "https://news.nate.com/view/20230706n26457",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://news.nate.com/view/20230706n26457"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅈㅅ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-홍기훈",
+      "name": "홍기훈",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P023_be7dcfcf.jpg",
+      "imageSource": "https://www.artsro.com/right/enter_view.html?CatNo=89&GoIdx=824",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.artsro.com/right/enter_view.html?CatNo=89&GoIdx=824"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅎㄱㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-강호동",
+      "name": "강호동",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P029_592458b6.jpg",
+      "imageSource": "https://www.issuemaker.kr/news/articleView.html?idxno=3464",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.issuemaker.kr/news/articleView.html?idxno=3464"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅎㄷ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김진수",
+      "name": "김진수",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P032_bb7e87ff.jpg",
+      "imageSource": "https://ssehada.com/celebrities/pyoyeongho",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://ssehada.com/celebrities/pyoyeongho"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅈㅅ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-정준하",
+      "name": "정준하",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P033_6ceb08d4.jpg",
+      "imageSource": "https://www.koreajoongangdaily.com/entertainment/comedian-kang-ho-dong-joins-sm-cc-board/11265790",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.koreajoongangdaily.com/entertainment/comedian-kang-ho-dong-joins-sm-cc-board/11265790"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅈㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김효진",
+      "name": "김효진",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P034_b34ef3b8.jpg",
+      "imageSource": "https://www.chosun.com/entertainments/entertain_photo/2022/06/14/SFBBFYIGI5AKVFQFCMH7RN2C4I/?outputType=amp",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.chosun.com/entertainments/entertain_photo/2022/06/14/SFBBFYIGI5AKVFQFCMH7RN2C4I/?outputType=amp"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅎㅈ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-고명환",
+      "name": "고명환",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P036_d3608355.jpg",
+      "imageSource": "https://www.xportsnews.com/article/666759",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.xportsnews.com/article/666759"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅁㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-이혁재",
+      "name": "이혁재",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P038_7ce23bb6.jpg",
+      "imageSource": "https://ent.sbs.co.kr/news/article.do?article_id=E10009893334",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://ent.sbs.co.kr/news/article.do?article_id=E10009893334"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅇㅎㅈ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-박희진",
+      "name": "박희진",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P040_5931c492.jpg",
+      "imageSource": "https://www.lecturernews.com/news/articleView.html?idxno=108561",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.lecturernews.com/news/articleView.html?idxno=108561"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅂㅎㅈ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-손헌수",
+      "name": "손헌수",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P042_a4076a27.jpg",
+      "imageSource": "https://www.kmib.co.kr/article/view.asp?arcid=0029168135",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.kmib.co.kr/article/view.asp?arcid=0029168135"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅅㅎㅅ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-정용국",
+      "name": "정용국",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P043_8bf3c384.jpg",
+      "imageSource": "https://www.mk.co.kr/news/hot-issues/10267073",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.mk.co.kr/news/hot-issues/10267073"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅇㄱ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-안선영",
+      "name": "안선영",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P044_cd2bda9f.jpg",
+      "imageSource": "https://v.daum.net/v/20190418113252639",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://v.daum.net/v/20190418113252639"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅇㅅㅇ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-추대엽",
+      "name": "추대엽",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P045_6229243a.jpg",
+      "imageSource": "https://view.asiae.co.kr/article/2015070708073345614",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://view.asiae.co.kr/article/2015070708073345614"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅊㄷㅇ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김미연",
+      "name": "김미연",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P046_e2ee9d1f.jpg",
+      "imageSource": "https://sports.khan.co.kr/article/201904021645003",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://sports.khan.co.kr/article/201904021645003"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅁㅇ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-전환규",
+      "name": "전환규",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P047_1b836b30.jpg",
+      "imageSource": "https://eventnet.co.kr/page/s1/s3_view.php?seq=2661",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://eventnet.co.kr/page/s1/s3_view.php?seq=2661"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅎㄱ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-오정태",
+      "name": "오정태",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P051_b0ed9ca0.jpg",
+      "imageSource": "https://www.kmunews.co.kr/news/articleView.html?idxno=8809",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.kmunews.co.kr/news/articleView.html?idxno=8809"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅇㅈㅌ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김미려",
+      "name": "김미려",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P052_7b1f8136.jpg",
+      "imageSource": "https://www.edaily.co.kr/News/Read?mediaCodeNo=258&newsId=01088966583328016",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://www.edaily.co.kr/News/Read?mediaCodeNo=258&newsId=01088966583328016"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅁㄹ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-조현민",
+      "name": "조현민",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P053_7b80ab07.jpg",
+      "imageSource": "https://v.daum.net/v/20220422110754958",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://v.daum.net/v/20220422110754958"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅎㅁ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김경진",
+      "name": "김경진",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P054_3fca0529.jpg",
+      "imageSource": "https://v.daum.net/v/20260707100718766",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://v.daum.net/v/20260707100718766"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㄱㅈ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
+        }
+      ]
+    },
+    {
+      "id": "comedian-황제성",
+      "name": "황제성",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "mbc",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P055_9873bd04.jpg",
+      "imageSource": "https://news.nate.com/view/20090710n09391",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
+        "https://news.nate.com/view/20090710n09391"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "MBC.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. MBC.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅎㅈㅅ",
+      "affiliations": [
+        {
+          "broadcaster": "mbc",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
         }
       ]
     }
