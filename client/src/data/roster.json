@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-08-27T03:10:31.255Z",
   "sectionCount": 74,
-  "recordCount": 623,
+  "recordCount": 617,
   "sections": [
     {
       "broadcaster": "sbs",
@@ -2626,19 +2626,6 @@
       "imageAlt": "임성훈 프로필 이미지"
     },
     {
-      "id": "sbs-공채-10-10-정세협",
-      "broadcaster": "sbs",
-      "generation": 10,
-      "track": "공채",
-      "year": "2008",
-      "name": "정세협",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "not-found",
-      "imageUrl": "",
-      "imageSource": "",
-      "imageAlt": "정세협 프로필 이미지"
-    },
-    {
       "id": "sbs-공채-10-11-권혁진",
       "broadcaster": "sbs",
       "generation": 10,
@@ -3914,19 +3901,6 @@
       "imageAlt": "이정문(은상) 프로필 이미지"
     },
     {
-      "id": "kbs-콘테스트-2-2-조금산",
-      "broadcaster": "kbs",
-      "generation": 2,
-      "track": "콘테스트",
-      "year": "1983",
-      "name": "조금산",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "not-found",
-      "imageUrl": "",
-      "imageSource": "",
-      "imageAlt": "조금산 프로필 이미지"
-    },
-    {
       "id": "kbs-콘테스트-3-1-김용",
       "broadcaster": "kbs",
       "generation": 3,
@@ -3951,19 +3925,6 @@
       "imageUrl": "",
       "imageSource": "",
       "imageAlt": "한혜승 프로필 이미지"
-    },
-    {
-      "id": "kbs-코미디 탤런트-4-1-양종철",
-      "broadcaster": "kbs",
-      "generation": 4,
-      "track": "코미디 탤런트",
-      "year": "1986",
-      "name": "양종철",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "not-found",
-      "imageUrl": "",
-      "imageSource": "",
-      "imageAlt": "양종철 프로필 이미지"
     },
     {
       "id": "kbs-코미디 탤런트-4-2-이현순",
@@ -4357,20 +4318,6 @@
       "imageUrl": "",
       "imageSource": "",
       "imageAlt": "김수용(장려상) 프로필 이미지"
-    },
-    {
-      "id": "kbs-공채-8-1-김태호(본명 김광현)",
-      "broadcaster": "kbs",
-      "generation": 8,
-      "track": "공채",
-      "year": "1991",
-      "name": "김태호(본명 김광현)",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "matched",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/KIMTH.2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "imageSource": "https://commons.wikimedia.org/wiki/File:KIMTH.2009.jpg",
-      "imageAlt": "김태호(본명 김광현) 프로필 이미지",
-      "imageTitle": "File:KIMTH.2009.jpg"
     },
     {
       "id": "kbs-공채-8-2-한송이",
@@ -5749,20 +5696,6 @@
       "imageUrl": "",
       "imageSource": "",
       "imageAlt": "김지호 프로필 이미지"
-    },
-    {
-      "id": "kbs-공채-22-4-박지선",
-      "broadcaster": "kbs",
-      "generation": 22,
-      "track": "공채",
-      "year": "2007",
-      "name": "박지선",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "matched",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Park_Ji-Sun.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%80%EC%84%A0",
-      "imageTitle": "박지선",
-      "imageAlt": "박지선 프로필 이미지"
     },
     {
       "id": "kbs-공채-22-5-성현주",
@@ -7915,19 +7848,6 @@
       "imageAlt": "신동수 프로필 이미지"
     },
     {
-      "id": "mbc-공채-15-7-함효주",
-      "broadcaster": "mbc",
-      "generation": 15,
-      "track": "공채",
-      "year": "2006",
-      "name": "함효주",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "not-found",
-      "imageUrl": "",
-      "imageSource": "",
-      "imageAlt": "함효주 프로필 이미지"
-    },
-    {
       "id": "mbc-공채-16-1-박초은",
       "broadcaster": "mbc",
       "generation": 16,
@@ -8734,6 +8654,6 @@
       "imageAlt": "Impulsado por the seed engine 프로필 이미지"
     }
   ],
-  "imageMatched": 37,
-  "imageMissing": 586
+  "imageMatched": 35,
+  "imageMissing": 582
 }

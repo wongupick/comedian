@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-01T08:16:49.926Z",
+  "generatedAt": "2026-11-17T03:22:51.067Z",
   "stats": {
     "inputRecords": 625,
-    "cleanedUniqueRecords": 567,
-    "droppedRecords": 48,
+    "cleanedUniqueRecords": 561,
+    "droppedRecords": 54,
     "duplicateMerged": 10,
     "byBroadcaster": {
-      "sbs": 229,
-      "kbs": 171,
-      "mbc": 165,
+      "sbs": 228,
+      "kbs": 167,
+      "mbc": 164,
       "other": 2
     },
-    "matchedImages": 37,
-    "placeholders": 530,
-    "needsReview": 567
+    "matchedImages": 35,
+    "placeholders": 526,
+    "needsReview": 561
   },
   "records": [
     {
@@ -4618,44 +4618,6 @@
       ]
     },
     {
-      "id": "comedian-김태호",
-      "name": "김태호",
-      "aliases": [
-        "김태호(본명 김광현)"
-      ],
-      "gender": null,
-      "birthDate": null,
-      "debutYear": null,
-      "broadcaster": "kbs",
-      "generation": 8,
-      "track": "공채",
-      "recruitmentYear": "1991",
-      "agency": null,
-      "programs": [],
-      "introduction": null,
-      "youtube": null,
-      "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/KIMTH.2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "imageSource": "https://commons.wikimedia.org/wiki/File:KIMTH.2009.jpg",
-      "imageStatus": "matched",
-      "sourceUrls": [
-        "https://news.kbs.co.kr/news/view.do?ncd=8154064",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
-      ],
-      "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
-      "chosung": "ㄱㅌㅎ",
-      "affiliations": [
-        {
-          "broadcaster": "kbs",
-          "track": "공채",
-          "generation": 8,
-          "recruitmentYear": "1991",
-          "sourceUrl": "https://news.kbs.co.kr/news/view.do?ncd=8154064"
-        }
-      ]
-    },
-    {
       "id": "comedian-김태환",
       "name": "김태환",
       "aliases": [],
@@ -7547,42 +7509,6 @@
       ]
     },
     {
-      "id": "comedian-박지선",
-      "name": "박지선",
-      "aliases": [],
-      "gender": null,
-      "birthDate": null,
-      "debutYear": null,
-      "broadcaster": "kbs",
-      "generation": 22,
-      "track": "공채",
-      "recruitmentYear": "2007",
-      "agency": null,
-      "programs": [],
-      "introduction": null,
-      "youtube": null,
-      "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Park_Ji-Sun.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A7%80%EC%84%A0",
-      "imageStatus": "matched",
-      "sourceUrls": [
-        "https://news.kbs.co.kr/news/view.do?ncd=8154064",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
-      ],
-      "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
-      "chosung": "ㅂㅈㅅ",
-      "affiliations": [
-        {
-          "broadcaster": "kbs",
-          "track": "공채",
-          "generation": 22,
-          "recruitmentYear": "2007",
-          "sourceUrl": "https://news.kbs.co.kr/news/view.do?ncd=8154064"
-        }
-      ]
-    },
-    {
       "id": "comedian-박지성",
       "name": "박지성",
       "aliases": [],
@@ -10194,42 +10120,6 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
-        }
-      ]
-    },
-    {
-      "id": "comedian-양종철",
-      "name": "양종철",
-      "aliases": [],
-      "gender": null,
-      "birthDate": null,
-      "debutYear": null,
-      "broadcaster": "kbs",
-      "generation": 4,
-      "track": "코미디 탤런트",
-      "recruitmentYear": "1986",
-      "agency": null,
-      "programs": [],
-      "introduction": null,
-      "youtube": null,
-      "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
-      "sourceUrls": [
-        "https://news.kbs.co.kr/news/view.do?ncd=8154064",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
-      ],
-      "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
-      "chosung": "ㅇㅈㅊ",
-      "affiliations": [
-        {
-          "broadcaster": "kbs",
-          "track": "코미디 탤런트",
-          "generation": 4,
-          "recruitmentYear": "1986",
-          "sourceUrl": "https://news.kbs.co.kr/news/view.do?ncd=8154064"
         }
       ]
     },
@@ -16441,42 +16331,6 @@
       ]
     },
     {
-      "id": "comedian-정세협",
-      "name": "정세협",
-      "aliases": [],
-      "gender": null,
-      "birthDate": null,
-      "debutYear": null,
-      "broadcaster": "sbs",
-      "generation": 10,
-      "track": "공채",
-      "recruitmentYear": "2008",
-      "agency": null,
-      "programs": [],
-      "introduction": null,
-      "youtube": null,
-      "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
-      "sourceUrls": [
-        "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
-      ],
-      "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
-      "chosung": "ㅈㅅㅎ",
-      "affiliations": [
-        {
-          "broadcaster": "sbs",
-          "track": "공채",
-          "generation": 10,
-          "recruitmentYear": "2008",
-          "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
-        }
-      ]
-    },
-    {
       "id": "comedian-정아미",
       "name": "정아미",
       "aliases": [],
@@ -17089,42 +16943,6 @@
           "generation": 16,
           "recruitmentYear": "2016",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
-        }
-      ]
-    },
-    {
-      "id": "comedian-조금산",
-      "name": "조금산",
-      "aliases": [],
-      "gender": null,
-      "birthDate": null,
-      "debutYear": null,
-      "broadcaster": "kbs",
-      "generation": 2,
-      "track": "콘테스트",
-      "recruitmentYear": "1983",
-      "agency": null,
-      "programs": [],
-      "introduction": null,
-      "youtube": null,
-      "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
-      "sourceUrls": [
-        "https://news.kbs.co.kr/news/view.do?ncd=8154064",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
-      ],
-      "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
-      "chosung": "ㅈㄱㅅ",
-      "affiliations": [
-        {
-          "broadcaster": "kbs",
-          "track": "콘테스트",
-          "generation": 2,
-          "recruitmentYear": "1983",
-          "sourceUrl": "https://news.kbs.co.kr/news/view.do?ncd=8154064"
         }
       ]
     },
@@ -19769,42 +19587,6 @@
           "generation": 3,
           "recruitmentYear": "1985",
           "sourceUrl": "https://news.kbs.co.kr/news/view.do?ncd=8154064"
-        }
-      ]
-    },
-    {
-      "id": "comedian-함효주",
-      "name": "함효주",
-      "aliases": [],
-      "gender": null,
-      "birthDate": null,
-      "debutYear": null,
-      "broadcaster": "mbc",
-      "generation": 15,
-      "track": "공채",
-      "recruitmentYear": "2006",
-      "agency": null,
-      "programs": [],
-      "introduction": null,
-      "youtube": null,
-      "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
-      "sourceUrls": [
-        "https://program.imbc.com/Cast/1000370100000100000",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC"
-      ],
-      "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
-      "chosung": "ㅎㅎㅈ",
-      "affiliations": [
-        {
-          "broadcaster": "mbc",
-          "track": "공채",
-          "generation": 15,
-          "recruitmentYear": "2006",
-          "sourceUrl": "https://program.imbc.com/Cast/1000370100000100000"
         }
       ]
     },
