@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-17T07:08:55.509Z",
+  "generatedAt": "2026-11-17T07:15:58.203Z",
   "stats": {
     "inputRecords": 625,
-    "cleanedUniqueRecords": 763,
+    "cleanedUniqueRecords": 785,
     "droppedRecords": 59,
     "duplicateMerged": 10,
     "byBroadcaster": {
-      "sbs": 267,
+      "sbs": 289,
       "kbs": 322,
       "mbc": 172,
       "other": 2
     },
-    "matchedImages": 158,
-    "placeholders": 605,
-    "needsReview": 763,
+    "matchedImages": 218,
+    "placeholders": 567,
+    "needsReview": 785,
     "sourceListAudit": {
       "sourceUrls": [
         "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/MBC",
@@ -50,6 +50,18 @@
       ],
       "verifiedAt": "2026-11-17",
       "imageCaution": "김가은·손유담은 동일 단체 사진으로 개인 식별 불가하여 적용하지 않음."
+    },
+    "sbsPdfAudit": {
+      "pdfPhotoMappings": 70,
+      "updatedRecords": 48,
+      "newRecords": 22,
+      "aliasMerges": {
+        "김구라": "김현동"
+      },
+      "source": "SBS.pdf · 2026-11-17",
+      "sourceListUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+      "unmatchedPdfNames": [],
+      "verifiedAt": "2026-11-17"
     }
   },
   "records": [
@@ -141,15 +153,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/%EA%B0%95%EC%84%B1%EB%B2%94.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%B1%EB%B2%94",
+      "imageUrl": "/manus-storage/P014_863c8c02.jpg",
+      "imageSource": "https://www.etoday.co.kr/news/view/743624",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.etoday.co.kr/news/view/743624"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅅㅂ",
       "affiliations": [
         {
@@ -158,6 +171,13 @@
           "generation": 5,
           "recruitmentYear": "1996",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -293,15 +313,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P057_20d6dbea.jpg",
+      "imageSource": "https://sports.khan.co.kr/article/202304271342023",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://sports.khan.co.kr/article/202304271342023"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅈㅈ",
       "affiliations": [
         {
@@ -310,6 +331,13 @@
           "generation": 10,
           "recruitmentYear": "2008",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -835,15 +863,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P033_5da82df8.jpg",
+      "imageSource": "https://car.godjungbo.com/32",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://car.godjungbo.com/32"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅅㅎ",
       "affiliations": [
         {
@@ -852,6 +881,13 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -1321,15 +1357,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B0%95%EB%A0%A5%ED%95%9C_%EC%96%91_%EB%82%A0%EA%B0%9C%21_%EA%B9%80%EA%B2%BD%EB%AF%BC_%26_%ED%98%B8%EC%82%BC_%EC%95%84%EC%9D%B4%EC%97%90%EC%89%AC_%EC%9E%85%EB%8B%A8_%EC%9D%B8%ED%84%B0%EB%B7%B0.webm/960px--%EA%B0%95%EB%A0%A5%ED%95%9C_%EC%96%91_%EB%82%A0%EA%B0%9C%21_%EA%B9%80%EA%B2%BD%EB%AF%BC_%26_%ED%98%B8%EC%82%BC_%EC%95%84%EC%9D%B4%EC%97%90%EC%89%AC_%EC%9E%85%EB%8B%A8_%EC%9D%B8%ED%84%B0%EB%B7%B0.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "imageSource": "https://commons.wikimedia.org/wiki/File:%EA%B0%95%EB%A0%A5%ED%95%9C_%EC%96%91_%EB%82%A0%EA%B0%9C!_%EA%B9%80%EA%B2%BD%EB%AF%BC_%26_%ED%98%B8%EC%82%BC_%EC%95%84%EC%9D%B4%EC%97%90%EC%89%AC_%EC%9E%85%EB%8B%A8_%EC%9D%B8%ED%84%B0%EB%B7%B0.webm",
+      "imageUrl": "/manus-storage/P004_f12091b0.jpg",
+      "imageSource": "https://news.nate.com/view/20071122n22876",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://news.nate.com/view/20071122n22876"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㄱㅁ",
       "affiliations": [
         {
@@ -1338,6 +1375,13 @@
           "generation": 1,
           "recruitmentYear": "1992",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -1357,15 +1401,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/9%EC%9B%94_14%EC%9D%BC_%EC%A0%9C8%ED%9A%8C_%EA%B3%A0%EC%96%91%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%98%81%ED%99%94%EC%A0%9C_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "imageSource": "https://commons.wikimedia.org/wiki/File:9%EC%9B%94_14%EC%9D%BC_%EC%A0%9C8%ED%9A%8C_%EA%B3%A0%EC%96%91%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%98%81%ED%99%94%EC%A0%9C_(5).jpg",
+      "imageUrl": "/manus-storage/P005_6fc48ef4.jpg",
+      "imageSource": "https://v.daum.net/v/20240306153919070",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://v.daum.net/v/20240306153919070"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㄱㅅ",
       "affiliations": [
         {
@@ -1374,6 +1419,13 @@
           "generation": 1,
           "recruitmentYear": "1992",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -1545,15 +1597,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P035_8fc438e3.jpg",
+      "imageSource": "https://www.cineplay.co.kr/fr-fr/articles/21938",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.cineplay.co.kr/fr-fr/articles/21938"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㄱㅇ",
       "affiliations": [
         {
@@ -1562,6 +1615,13 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -2178,15 +2238,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P056_55b5f8de.jpg",
+      "imageSource": "https://artsro.com/right/enter_view.html?CatNo=85&GoIdx=4593&thTit=1",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://artsro.com/right/enter_view.html?CatNo=85&GoIdx=4593&thTit=1"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅁㄱ",
       "affiliations": [
         {
@@ -2195,6 +2256,13 @@
           "generation": 10,
           "recruitmentYear": "2008",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -2250,15 +2318,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P038_b05e359e.jpg",
+      "imageSource": "https://m.news.nate.com/view/20221116n17901?cpcd=&list=recent&mid=e02",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://m.news.nate.com/view/20221116n17901?cpcd=&list=recent&mid=e02"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅁㅅ",
       "affiliations": [
         {
@@ -2267,6 +2336,13 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -3084,7 +3160,7 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "/manus-storage/P113_044abfeb.jpg",
+      "imageUrl": "/manus-storage/P051_d0c75ed4.jpg",
       "imageSource": "https://www.keydr.kr/mobile/article.html?no=2318",
       "imageStatus": "matched",
       "sourceUrls": [
@@ -3094,7 +3170,7 @@
         "https://www.keydr.kr/mobile/article.html?no=2318"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. KBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. KBS.pdf(2026-11-17) 이름·사진 대조 완료 SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅅㅎ",
       "affiliations": [
         {
@@ -3117,6 +3193,13 @@
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -3478,15 +3561,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P047_82b56602.jpg",
+      "imageSource": "https://news.nate.com/view/20210828n02751",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://news.nate.com/view/20210828n02751"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅇㅁ",
       "affiliations": [
         {
@@ -3495,6 +3579,13 @@
           "generation": 8,
           "recruitmentYear": "2004",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -4822,15 +4913,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/%EA%B9%80%ED%95%84%EC%88%98_%EA%B5%90%EC%88%98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "imageSource": "https://commons.wikimedia.org/wiki/File:%EA%B9%80%ED%95%84%EC%88%98_%EA%B5%90%EC%88%98.jpg",
+      "imageUrl": "/manus-storage/P039_b1bfe844.jpg",
+      "imageSource": "https://www.kbmaeil.com/article/200609141235394",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.kbmaeil.com/article/200609141235394"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅍㅅ",
       "affiliations": [
         {
@@ -4839,6 +4931,13 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -5027,7 +5126,9 @@
     {
       "id": "comedian-김현동",
       "name": "김현동",
-      "aliases": [],
+      "aliases": [
+        "김구라"
+      ],
       "gender": null,
       "birthDate": null,
       "debutYear": null,
@@ -5040,15 +5141,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P008_10fed8e1.jpg",
+      "imageSource": "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F108%2F201303131231425091.jpg",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F108%2F201303131231425091.jpg"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅎㄷ",
       "affiliations": [
         {
@@ -5057,6 +5159,13 @@
           "generation": 2,
           "recruitmentYear": "1993",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -5229,15 +5338,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P034_ab88e934.jpg",
+      "imageSource": "https://sports.khan.co.kr/article/202407151702003",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://sports.khan.co.kr/article/202407151702003"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅎㅇ",
       "affiliations": [
         {
@@ -5246,6 +5356,13 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -6842,15 +6959,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P036_df452c71.jpg",
+      "imageSource": "https://v.daum.net/v/20180905164753469",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://v.daum.net/v/20180905164753469"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅂㄱㅅ",
       "affiliations": [
         {
@@ -6859,6 +6977,13 @@
           "generation": 8,
           "recruitmentYear": "2004",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -7070,15 +7195,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P021_b950cf6f.jpg",
+      "imageSource": "https://m.news.nate.com/view/20060818n03463?cate=interest&list=rank&sect=ent",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://m.news.nate.com/view/20060818n03463?cate=interest&list=rank&sect=ent"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅂㅂㄷㄹ",
       "affiliations": [
         {
@@ -7087,6 +7213,13 @@
           "generation": 6,
           "recruitmentYear": "2001",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -7413,7 +7546,7 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "/manus-storage/P108_a811040e.jpg",
+      "imageUrl": "/manus-storage/P055_9c7822d6.jpg",
       "imageSource": "https://www.xportsnews.com/article/1686330",
       "imageStatus": "matched",
       "sourceUrls": [
@@ -7423,7 +7556,7 @@
         "https://www.xportsnews.com/article/1686330"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. KBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. KBS.pdf(2026-11-17) 이름·사진 대조 완료 SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅂㅇㅇ",
       "affiliations": [
         {
@@ -7446,6 +7579,13 @@
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -9406,15 +9546,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/180503_%EC%8B%A0%EB%8F%99%EC%97%BD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "imageSource": "https://commons.wikimedia.org/wiki/File:180503_%EC%8B%A0%EB%8F%99%EC%97%BD.png",
+      "imageUrl": "/manus-storage/P001_d80b8578.jpg",
+      "imageSource": "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2FprofileImg%2Ft%2Fdcc57514-f7f4-4dcd-9968-030ba218f8ef.png",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2FprofileImg%2Ft%2Fdcc57514-f7f4-4dcd-9968-030ba218f8ef.png"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅅㄷㅇ",
       "affiliations": [
         {
@@ -9423,6 +9564,13 @@
           "generation": null,
           "recruitmentYear": "1991",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -9666,15 +9814,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P058_a2a3ba52.jpg",
+      "imageSource": "https://www.ynnews.kr/news/articleView.html?idxno=132126",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.ynnews.kr/news/articleView.html?idxno=132126"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅅㅎㅈ",
       "affiliations": [
         {
@@ -9683,6 +9832,13 @@
           "generation": 10,
           "recruitmentYear": "2008",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -9738,15 +9894,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/%EC%8B%AC%ED%98%84%EC%84%AD.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EC%8B%AC%ED%98%84%EC%84%AD",
+      "imageUrl": "/manus-storage/P016_024b06d3.jpg",
+      "imageSource": "https://www.chosun.com/site/data/html_dir/2017/12/13/2017121302154.html",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.chosun.com/site/data/html_dir/2017/12/13/2017121302154.html"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅅㅎㅅ",
       "affiliations": [
         {
@@ -9755,6 +9912,13 @@
           "generation": 5,
           "recruitmentYear": "1996",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -9972,15 +10136,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P052_31bd1e73.jpg",
+      "imageSource": "https://moducasting.com/82/?idx=97",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://moducasting.com/82/?idx=97"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅅㅇ",
       "affiliations": [
         {
@@ -9989,6 +10154,13 @@
           "generation": 9,
           "recruitmentYear": "2007",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -10124,15 +10296,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P059_e9be3d57.jpg",
+      "imageSource": "https://news.nate.com/view/20200607n19793",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://news.nate.com/view/20200607n19793"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅈㅎ",
       "affiliations": [
         {
@@ -10141,6 +10314,13 @@
           "generation": 11,
           "recruitmentYear": "2009",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -10312,15 +10492,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P041_7dc14e67.jpg",
+      "imageSource": "https://theqoo.net/square/3141585530",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://theqoo.net/square/3141585530"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅅㅊ",
       "affiliations": [
         {
@@ -10329,6 +10510,13 @@
           "generation": 8,
           "recruitmentYear": "2004",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -10348,15 +10536,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P037_03e609fb.jpg",
+      "imageSource": "https://news.sbs.co.kr/news/endPage.do?news_id=N1007393787",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://news.sbs.co.kr/news/endPage.do?news_id=N1007393787"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅅㅎ",
       "affiliations": [
         {
@@ -10365,6 +10554,13 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -10528,15 +10724,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P009_37c5055e.jpg",
+      "imageSource": "https://www.mk.co.kr/news/broadcasting-service/10708635",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.mk.co.kr/news/broadcasting-service/10708635"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㄱㅎ",
       "affiliations": [
         {
@@ -10545,6 +10742,13 @@
           "generation": 2,
           "recruitmentYear": "1993",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -10948,15 +11152,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P017_36abb47c.jpg",
+      "imageSource": "https://newsnjob.com/news/articleView.html?idxno=1373",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://newsnjob.com/news/articleView.html?idxno=1373"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅈㅊ",
       "affiliations": [
         {
@@ -10965,6 +11170,13 @@
           "generation": 5,
           "recruitmentYear": "1996",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -12044,15 +12256,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P028_f5c1536d.jpg",
+      "imageSource": "https://ent.sbs.co.kr/news/article.do?article_id=E10008851398",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://ent.sbs.co.kr/news/article.do?article_id=E10008851398"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅈㅇ",
       "affiliations": [
         {
@@ -12061,6 +12274,13 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -12561,15 +12781,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P042_37b5ceff.jpg",
+      "imageSource": "https://sports.khan.co.kr/article/201410150850323",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://sports.khan.co.kr/article/201410150850323"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㄷㅇ",
       "affiliations": [
         {
@@ -12578,6 +12799,13 @@
           "generation": 8,
           "recruitmentYear": "2004",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -13225,15 +13453,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P060_934323c0.jpg",
+      "imageSource": "https://www.mk.co.kr/news/hot-issues/10107284",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.mk.co.kr/news/hot-issues/10107284"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅅㅎ",
       "affiliations": [
         {
@@ -13242,6 +13471,13 @@
           "generation": 12,
           "recruitmentYear": "2012",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -13263,7 +13499,7 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "/manus-storage/P107_0c8415ca.jpg",
+      "imageUrl": "/manus-storage/P054_09ac0627.jpg",
       "imageSource": "https://v.daum.net/v/20181223012401755",
       "imageStatus": "matched",
       "sourceUrls": [
@@ -13274,7 +13510,7 @@
         "https://v.daum.net/v/20181223012401755"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. KBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. KBS.pdf(2026-11-17) 이름·사진 대조 완료 SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅅㅈ",
       "affiliations": [
         {
@@ -13304,6 +13540,13 @@
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -13767,15 +14010,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P043_a5f00b6a.jpg",
+      "imageSource": "https://www.mbn.co.kr/news/entertain/3597476",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.mbn.co.kr/news/entertain/3597476"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅇㅈ",
       "affiliations": [
         {
@@ -13784,6 +14028,13 @@
           "generation": 8,
           "recruitmentYear": "2004",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -14093,15 +14344,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P048_44ec02d0.jpg",
+      "imageSource": "https://star.sbs.co.kr/autostarpage/share?actorid=22000016843",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://star.sbs.co.kr/autostarpage/share?actorid=22000016843"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅇㅎ",
       "affiliations": [
         {
@@ -14110,6 +14362,13 @@
           "generation": 8,
           "recruitmentYear": "2004",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -14813,15 +15072,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P044_a0d3d258.jpg",
+      "imageSource": "https://v.daum.net/v/bweEuEB3az?f=p",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://v.daum.net/v/bweEuEB3az?f=p"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅈㅎ",
       "affiliations": [
         {
@@ -14830,6 +15090,13 @@
           "generation": 8,
           "recruitmentYear": "2004",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -16553,15 +16820,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P007_eb121047.jpg",
+      "imageSource": "https://www.chosun.com/site/data/html_dir/2013/05/07/2013050701383.html",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.chosun.com/site/data/html_dir/2013/05/07/2013050701383.html"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅈㅅㅎ",
       "affiliations": [
         {
@@ -16570,6 +16838,13 @@
           "generation": 1,
           "recruitmentYear": "1992",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -16879,17 +17154,18 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": "/manus-storage/P116_b34c04db.jpg",
-      "imageSource": "https://www.etoday.co.kr/news/view/2526067",
+      "imageUrl": "/manus-storage/P063_04c649d9.jpg",
+      "imageSource": "https://www.wikitree.co.kr/articles/844399",
       "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
         "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
         "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS",
-        "https://www.etoday.co.kr/news/view/2526067"
+        "https://www.etoday.co.kr/news/view/2526067",
+        "https://www.wikitree.co.kr/articles/844399"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. KBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. KBS.pdf(2026-11-17) 이름·사진 대조 완료 SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅈㅈㅎ",
       "affiliations": [
         {
@@ -16912,6 +17188,13 @@
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -17011,15 +17294,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P045_d9d7a763.jpg",
+      "imageSource": "https://www.seoul.co.kr/news/entertainment/starinterN/2025/08/09/20250809500021",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.seoul.co.kr/news/entertainment/starinterN/2025/08/09/20250809500021"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅈㅈㄹ",
       "affiliations": [
         {
@@ -17028,6 +17312,13 @@
           "generation": 8,
           "recruitmentYear": "2004",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -17157,15 +17448,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P032_0f25c13f.jpg",
+      "imageSource": "https://www.chosun.com/site/data/html_dir/2011/11/01/2011110101661.html",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.chosun.com/site/data/html_dir/2011/11/01/2011110101661.html"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅈㅎㅅ",
       "affiliations": [
         {
@@ -17174,6 +17466,13 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -18511,15 +18810,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P062_34c7ec14.jpg",
+      "imageSource": "https://news.nate.com/view/20141230n43775",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://news.nate.com/view/20141230n43775"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅊㅂㅅ",
       "affiliations": [
         {
@@ -18528,6 +18828,13 @@
           "generation": 12,
           "recruitmentYear": "2012",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -19357,15 +19664,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P002_625e16a8.jpg",
+      "imageSource": "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2Fportrait%2F201001%2F20100120192434623.jpg",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://search.pstatic.net/common?type=b&size=216&expire=1&refresh=true&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2Fportrait%2F201001%2F20100120192434623.jpg"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅍㅇㅂ",
       "affiliations": [
         {
@@ -19374,6 +19682,13 @@
           "generation": null,
           "recruitmentYear": "1991",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -20349,15 +20664,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P049_8e8d0e19.jpg",
+      "imageSource": "https://www.xportsnews.com/article/1973744",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.xportsnews.com/article/1973744"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅎㅇㅎ",
       "affiliations": [
         {
@@ -20366,6 +20682,13 @@
           "generation": 8,
           "recruitmentYear": "2004",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -20503,15 +20826,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P053_a77331f9.jpg",
+      "imageSource": "https://v.daum.net/v/20260317154644649",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://v.daum.net/v/20260317154644649"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅎㅎㅎ",
       "affiliations": [
         {
@@ -20520,6 +20844,13 @@
           "generation": 9,
           "recruitmentYear": "2007",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -20613,15 +20944,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P031_e3f33a5f.jpg",
+      "imageSource": "https://v.daum.net/v/ZqpxDH6FJI",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://programs.sbs.co.kr/enter/smilepeople/main",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://v.daum.net/v/ZqpxDH6FJI"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다.",
+      "verificationNote": "공개 목록 기반 항목입니다. 공식 프로필로 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅎㅇㅈ",
       "affiliations": [
         {
@@ -20630,6 +20962,13 @@
           "generation": 7,
           "recruitmentYear": "2003",
           "sourceUrl": "https://programs.sbs.co.kr/enter/smilepeople/main"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -21225,15 +21564,16 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P061_3ee6969f.jpg",
+      "imageSource": "https://v.daum.net/v/20150504112510107",
+      "imageStatus": "matched",
       "sourceUrls": [
         "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS",
+        "https://v.daum.net/v/20150504112510107"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다.",
+      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅎㅈ",
       "affiliations": [
         {
@@ -21249,6 +21589,13 @@
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     },
@@ -21723,19 +22070,27 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P070_dd6e7fc8.jpg",
+      "imageSource": "https://www.stardailynews.co.kr/news/articleView.html?idxno=135193",
+      "imageStatus": "matched",
       "sourceUrls": [
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.stardailynews.co.kr/news/articleView.html?idxno=135193"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다.",
+      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㄱㅈㅇ",
       "affiliations": [
         {
           "broadcaster": "sbs",
           "track": "기준 목록",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
@@ -21863,19 +22218,27 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P067_807970c9.jpg",
+      "imageSource": "https://www.fnnews.com/news/202309050502510447",
+      "imageStatus": "matched",
       "sourceUrls": [
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.fnnews.com/news/202309050502510447"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다.",
+      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅈㅎ",
       "affiliations": [
         {
           "broadcaster": "sbs",
           "track": "기준 목록",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
@@ -21898,19 +22261,27 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P069_b8de7110.jpg",
+      "imageSource": "https://news.nate.com/view/20260318n10356",
+      "imageStatus": "matched",
       "sourceUrls": [
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://news.nate.com/view/20260318n10356"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다.",
+      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅅㅁ",
       "affiliations": [
         {
           "broadcaster": "sbs",
           "track": "기준 목록",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
@@ -21933,19 +22304,27 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P068_b63500fa.jpg",
+      "imageSource": "https://www.fnnews.com/news/202501251130505504",
+      "imageStatus": "matched",
       "sourceUrls": [
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.fnnews.com/news/202501251130505504"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다.",
+      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅇㅈ",
       "affiliations": [
         {
           "broadcaster": "sbs",
           "track": "기준 목록",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
@@ -22320,19 +22699,27 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P065_b02a8e7c.jpg",
+      "imageSource": "https://www.hankyung.com/article/202512303746H",
+      "imageStatus": "matched",
       "sourceUrls": [
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.hankyung.com/article/202512303746H"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다.",
+      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅇㅈㅍ",
       "affiliations": [
         {
           "broadcaster": "sbs",
           "track": "기준 목록",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
@@ -22425,19 +22812,27 @@
       "introduction": null,
       "youtube": null,
       "instagram": null,
-      "imageUrl": null,
-      "imageSource": null,
-      "imageStatus": "placeholder",
+      "imageUrl": "/manus-storage/P066_90ccafae.jpg",
+      "imageSource": "https://www.dailian.co.kr/news/view/1481737",
+      "imageStatus": "matched",
       "sourceUrls": [
-        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.dailian.co.kr/news/view/1481737"
       ],
       "verificationStatus": "needs-review",
-      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다.",
+      "verificationNote": "방송사별 공개 목록에서 확인된 신규 후보입니다. 공식 프로필·활동 상태·세부 정보 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
       "chosung": "ㅈㅎㅊ",
       "affiliations": [
         {
           "broadcaster": "sbs",
           "track": "기준 목록",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        },
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
@@ -28706,6 +29101,798 @@
           "generation": null,
           "recruitmentYear": null,
           "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/KBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-전창걸",
+      "name": "전창걸",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P003_9eeb63d3.jpg",
+      "imageSource": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1002517576",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1002517576"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅊㄱ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-윤정수",
+      "name": "윤정수",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P006_2c654636.jpg",
+      "imageSource": "https://enews.imbc.com/News/RetrieveNewsInfo/213807",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://enews.imbc.com/News/RetrieveNewsInfo/213807"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅇㅈㅅ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-이동우",
+      "name": "이동우",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P010_8e70ca77.jpg",
+      "imageSource": "https://www.leukemia.kr/bbs/board.php?bo_table=06_02&wr_id=20",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.leukemia.kr/bbs/board.php?bo_table=06_02&wr_id=20"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅇㄷㅇ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-홍록기",
+      "name": "홍록기",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P011_6561ee44.jpg",
+      "imageSource": "https://www.donga.com/news/Entertainment/article/all/20110715/38838197/5",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.donga.com/news/Entertainment/article/all/20110715/38838197/5"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅎㄹㄱ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김현철",
+      "name": "김현철",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P012_e5b20992.jpg",
+      "imageSource": "https://www.mk.co.kr/en/culture/11319644",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.mk.co.kr/en/culture/11319644"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅎㅊ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-정성화",
+      "name": "정성화",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P013_ad6e6e2e.jpg",
+      "imageSource": "https://kstar.kbs.co.kr/person_view.html?idx=152722",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://kstar.kbs.co.kr/person_view.html?idx=152722"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅅㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-지상렬",
+      "name": "지상렬",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P015_936ec8f9.jpg",
+      "imageSource": "https://www.mk.co.kr/news/hot-issues/10383271",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.mk.co.kr/news/hot-issues/10383271"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅅㄹ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-조세호",
+      "name": "조세호",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P018_ac26735b.jpg",
+      "imageSource": "https://www.hankyung.com/article/202410154445H",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.hankyung.com/article/202410154445H"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅅㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김경욱",
+      "name": "김경욱",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P019_4cb946b6.jpg",
+      "imageSource": "https://www.news1.kr/photos/6926674",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.news1.kr/photos/6926674"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㄱㅇ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김주현",
+      "name": "김주현",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P020_88df1abf.jpg",
+      "imageSource": "https://news.nate.com/view/20100117n05819",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://news.nate.com/view/20100117n05819"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅈㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-문세윤",
+      "name": "문세윤",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P022_691bb511.jpg",
+      "imageSource": "https://v.daum.net/v/20231230225704749",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://v.daum.net/v/20231230225704749"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅁㅅㅇ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-이재형",
+      "name": "이재형",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P023_014de909.jpg",
+      "imageSource": "https://ent.sbs.co.kr/news/article.do?article_id=E10010110043",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://ent.sbs.co.kr/news/article.do?article_id=E10010110043"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅇㅈㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김태현",
+      "name": "김태현",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P024_158f613d.jpg",
+      "imageSource": "https://tvreport.co.kr/star/article/537450/",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://tvreport.co.kr/star/article/537450/"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅌㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김신영",
+      "name": "김신영",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P025_e5260371.jpg",
+      "imageSource": "https://www.timewiki.ai/timewiki/%EA%B9%80%EC%8B%A0%EC%98%81",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.timewiki.ai/timewiki/%EA%B9%80%EC%8B%A0%EC%98%81"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅅㅇ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-심진화",
+      "name": "심진화",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P026_7d2c1487.jpg",
+      "imageSource": "https://v.daum.net/v/20240816154231082",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://v.daum.net/v/20240816154231082"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅅㅈㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-김재우",
+      "name": "김재우",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P027_b7da01ff.jpg",
+      "imageSource": "https://artsro.com/right/enter_view.html?CatNo=85&GoIdx=3133&thTit=1",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://artsro.com/right/enter_view.html?CatNo=85&GoIdx=3133&thTit=1"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄱㅈㅇ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-정만호",
+      "name": "정만호",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P029_c0fe1d89.jpg",
+      "imageSource": "https://moducasting.com/82/?idx=160",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://moducasting.com/82/?idx=160"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅁㅎ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-윤택",
+      "name": "윤택",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P030_64250fdb.jpg",
+      "imageSource": "https://www.mk.co.kr/news/hot-issues/11056277",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.mk.co.kr/news/hot-issues/11056277"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅇㅌ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-남호연",
+      "name": "남호연",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P040_32c4c736.jpg",
+      "imageSource": "https://www.yna.co.kr/view/AKR20150710152600033",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.yna.co.kr/view/AKR20150710152600033"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㄴㅎㅇ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-최성민",
+      "name": "최성민",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P046_72979ae2.jpg",
+      "imageSource": "https://artsro.com/right/enter_view.html?CatNo=85&GoIdx=4538&thTit=1",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://artsro.com/right/enter_view.html?CatNo=85&GoIdx=4538&thTit=1"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅊㅅㅁ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-정민규",
+      "name": "정민규",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P050_c74ab6bb.jpg",
+      "imageSource": "https://v.daum.net/v/M0MOB351JD",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://v.daum.net/v/M0MOB351JD"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅈㅁㄱ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
+        }
+      ]
+    },
+    {
+      "id": "comedian-이호찬",
+      "name": "이호찬",
+      "aliases": [],
+      "gender": null,
+      "birthDate": null,
+      "debutYear": null,
+      "broadcaster": "sbs",
+      "generation": null,
+      "track": "PDF 인물 도감",
+      "recruitmentYear": null,
+      "agency": null,
+      "programs": [],
+      "introduction": null,
+      "youtube": null,
+      "instagram": null,
+      "imageUrl": "/manus-storage/P064_99278d55.jpg",
+      "imageSource": "https://www.bntnews.co.kr/article/view/bnt201604140075",
+      "imageStatus": "matched",
+      "sourceUrls": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS",
+        "https://www.bntnews.co.kr/article/view/bnt201604140075"
+      ],
+      "verificationStatus": "needs-review",
+      "verificationNote": "SBS.pdf(2026-11-17)에서 이름·사진 대조 완료. 세부 인물 정보는 공식 프로필 추가 확인이 필요합니다. SBS.pdf(2026-11-17) 이름·사진 대조 완료",
+      "chosung": "ㅇㅎㅊ",
+      "affiliations": [
+        {
+          "broadcaster": "sbs",
+          "track": "PDF 인물 도감",
+          "generation": null,
+          "recruitmentYear": null,
+          "sourceUrl": "https://namu.wiki/w/%EC%BD%94%EB%AF%B8%EB%94%94%EC%96%B8/%EB%AA%A9%EB%A1%9D/SBS"
         }
       ]
     }
