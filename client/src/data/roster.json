@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-08-27T03:10:31.255Z",
   "sectionCount": 74,
-  "recordCount": 617,
+  "recordCount": 612,
   "sections": [
     {
       "broadcaster": "sbs",
@@ -2652,19 +2652,6 @@
       "imageAlt": "김원구 프로필 이미지"
     },
     {
-      "id": "sbs-공채-10-13-최서인",
-      "broadcaster": "sbs",
-      "generation": 10,
-      "track": "공채",
-      "year": "2008",
-      "name": "최서인",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "not-found",
-      "imageUrl": "",
-      "imageSource": "",
-      "imageAlt": "최서인 프로필 이미지"
-    },
-    {
       "id": "sbs-공채-10-14-김건영",
       "broadcaster": "sbs",
       "generation": 10,
@@ -4174,19 +4161,6 @@
       "imageAlt": "안숙희 프로필 이미지"
     },
     {
-      "id": "kbs-코미디 탤런트-5-5-오성우",
-      "broadcaster": "kbs",
-      "generation": 5,
-      "track": "코미디 탤런트",
-      "year": "1987",
-      "name": "오성우",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "not-found",
-      "imageUrl": "",
-      "imageSource": "",
-      "imageAlt": "오성우 프로필 이미지"
-    },
-    {
       "id": "kbs-코미디 탤런트-5-6-오재미",
       "broadcaster": "kbs",
       "generation": 5,
@@ -4582,19 +4556,6 @@
       "imageAlt": "이병진 프로필 이미지"
     },
     {
-      "id": "kbs-특채-10-5-이인철",
-      "broadcaster": "kbs",
-      "generation": 10,
-      "track": "특채",
-      "year": "1993",
-      "name": "이인철",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "not-found",
-      "imageUrl": "",
-      "imageSource": "",
-      "imageAlt": "이인철 프로필 이미지"
-    },
-    {
       "id": "kbs-특채-10-6-장웅",
       "broadcaster": "kbs",
       "generation": 10,
@@ -4633,20 +4594,6 @@
       "imageUrl": "",
       "imageSource": "",
       "imageAlt": "지석진 프로필 이미지"
-    },
-    {
-      "id": "kbs-특채-10-9-김생민",
-      "broadcaster": "kbs",
-      "generation": 10,
-      "track": "특채",
-      "year": "1993",
-      "name": "김생민",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "matched",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kim_Saeng-Min.jpg/960px-Kim_Saeng-Min.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "imageSource": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%83%9D%EB%AF%BC",
-      "imageTitle": "김생민",
-      "imageAlt": "김생민 프로필 이미지"
     },
     {
       "id": "kbs-공채-11-1-아래는 데뷔가 불확실한 수상자들.",
@@ -5148,19 +5095,6 @@
       "imageUrl": "",
       "imageSource": "",
       "imageAlt": "김진철 프로필 이미지"
-    },
-    {
-      "id": "kbs-공채-18-3-류담",
-      "broadcaster": "kbs",
-      "generation": 18,
-      "track": "공채",
-      "year": "2003",
-      "name": "류담",
-      "verificationNote": "공개 편집 문서 기준 · 실제 기수/소속은 추가 확인 필요",
-      "imageStatus": "not-found",
-      "imageUrl": "",
-      "imageSource": "",
-      "imageAlt": "류담 프로필 이미지"
     },
     {
       "id": "kbs-공채-18-4-오지헌",
@@ -8654,6 +8588,6 @@
       "imageAlt": "Impulsado por the seed engine 프로필 이미지"
     }
   ],
-  "imageMatched": 35,
-  "imageMissing": 582
+  "imageMatched": 34,
+  "imageMissing": 578
 }
